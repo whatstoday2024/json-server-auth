@@ -1,0 +1,570 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "test@gmail.com",
+      "nickname": "test",
+      "password": "$2a$10$cZOvDZWPcJltEM4O2g4g7.yqbstn52rCryTL/JRb4LiwXL0u663Ni",
+      "infoHidden": "true | false",
+      "mode": "default | customization",
+      "role": "user",
+      "isAdmin": "true | false"
+    }
+  ],
+  "dishes": [
+    {
+      "id": "1",
+      "title": "蔥爆牛肉",
+      "engTitle": "Stir-fried Beef with Scallions",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "2",
+      "title": "紅燒獅子頭",
+      "engTitle": "Braised Lion's Head (pork balls)",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "3",
+      "title": "炸雞排",
+      "engTitle": "Fried Chicken Cutlet",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "4",
+      "title": "滷豬腳",
+      "engTitle": "Braised Pig's Trotters",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "5",
+      "title": "炒皇帝豆",
+      "engTitle": "Stir-Fried Lima Beans",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "6",
+      "title": "炒四季豆",
+      "engTitle": "Stir-Fried French Beans",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "7",
+      "title": "炒絲瓜",
+      "engTitle": "Stir-Fried Loofah",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "8",
+      "title": "醬煮豬肝",
+      "engTitle": "Braised Pig's Liver in Sauce",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "9",
+      "title": "豆干肉絲",
+      "engTitle": "Dried Tofu with Shredded Pork",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "10",
+      "title": "滷蛋",
+      "engTitle": "Egg",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "11",
+      "title": "紅燒豆腐",
+      "engTitle": "Braised Tofu in Soy Sauce",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713455/%E7%99%BE%E9%A0%81%E8%B1%86%E8%85%90_vk7hqk.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "12",
+      "title": "雞蛋豆腐",
+      "engTitle": "Egg Tofu",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "13",
+      "title": "煎香腸",
+      "engTitle": "Pan-fried Sausage",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713396/-_Pan-fried_Sausage_mjczxu.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "14",
+      "title": "梅菜扣肉",
+      "engTitle": "Preserved Vegetable Braised Pork",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714398/-_Preserved_Vegetable_Braised_Pork_javj4c.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "15",
+      "title": "銷魂滷排骨",
+      "engTitle": "Flavorful Braised Spare Ribs",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713389/-_Flavorful_Braised_Spare_Ribs_pab5hk.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "16",
+      "title": "炒花椰菜",
+      "engTitle": "Stir-Fried Cauliflower",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713425/-_Stir-Fried_Cauliflower_ibhm07.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "17",
+      "title": "水煮菠菜",
+      "engTitle": "Boiled Spinach",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713504/%E7%82%92%E8%8F%A0%E8%8F%9C_ffei4z.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "18",
+      "title": "炒木耳",
+      "engTitle": "Stir-Fried Black Fungus",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "19",
+      "title": "炒秋葵",
+      "engTitle": "Stir-Fried Okra",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713522/%E7%A7%8B%E8%91%B5_aip9qo.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "20",
+      "title": "白菜滷",
+      "engTitle": "Braised Cabbage",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713452/%E7%99%BD%E8%8F%9C%E6%BB%B7_akz4ko.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "21",
+      "title": "魚香豆腐",
+      "engTitle": "Fish-flavored Tofu",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713071/-_Fish-flavored_Tofu_gybs8y.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "22",
+      "title": "番茄炒蛋",
+      "engTitle": "Scrambled Eggs with Tomatoes",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713404/-_Scrambled_Eggs_with_Tomatoes_yjlw6b.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "23",
+      "title": "滷豆腐",
+      "engTitle": "Braised Tofu",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707712975/-_Braised_Tofu_ck2d00.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "24",
+      "title": "糖醋排骨",
+      "engTitle": "Sweet and Sour Spare Ribs",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713519/%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8_wdogwc.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "25",
+      "title": "椒鹽排骨",
+      "engTitle": "Salt and Pepper Spare Ribs",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713518/%E6%A4%92%E9%B9%BD%E6%8E%92%E9%AA%A8_lzfwfv.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "26",
+      "title": "紅燒肉",
+      "engTitle": "Braised Pork Belly",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713523/%E7%B4%85%E7%87%92%E8%82%89_xhqizh.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "27",
+      "title": "滷雞腿",
+      "engTitle": "Braised Chicken Leg",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E6%BB%B7%E9%9B%9E%E8%85%BF_xptc11.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "28",
+      "title": "香煎魚排",
+      "engTitle": "Pan-fried Fish Fillet",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713517/%E9%A6%99%E7%85%8E%E9%AD%9A%E6%8E%92_a4azki.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "29",
+      "title": "炒空心菜",
+      "engTitle": "Stir-Fried Water Spinach",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713492/%E7%82%92%E7%A9%BA%E5%BF%83%E8%8F%9C_of6bdy.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "30",
+      "title": "炒高麗菜",
+      "engTitle": "Stir-Fried Napa Cabbage",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713494/%E7%82%92%E9%AB%98%E9%BA%97%E8%8F%9C_fwwane.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "31",
+      "title": "紅蘿蔔炒蛋",
+      "engTitle": "Scrambled Eggs with Carrot",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713518/%E7%B4%85%E8%98%BF%E8%94%94%E7%82%92%E8%9B%8B_ihxmpe.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "32",
+      "title": "百頁豆腐",
+      "engTitle": "Hundred-Layer Tofu",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713455/%E7%99%BE%E9%A0%81%E8%B1%86%E8%85%90_vk7hqk.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "33",
+      "title": "紅燒茄子",
+      "engTitle": "Braised Eggplant in Soy Sauce",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713521/%E7%B4%85%E7%87%92%E8%8C%84%E5%AD%90_mecmj6.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "34",
+      "title": "洋蔥炒蛋",
+      "engTitle": "Scrambled Eggs with Onions",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713494/%E6%B4%8B%E8%94%A5%E7%82%92%E8%9B%8B_jlxupj.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "35",
+      "title": "煎鮭魚",
+      "engTitle": "Pan-seared Salmon",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E7%85%8E%E9%AE%AD%E9%AD%9A_k2sudo.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "36",
+      "title": "蒜泥白肉",
+      "engTitle": "Garlic-flavored Pork Belly",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E8%92%9C%E6%B3%A5%E7%99%BD%E8%82%89_y4mcn3.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "37",
+      "title": "塔香三杯雞",
+      "engTitle": "Three-Cup Chicken with Basil",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713443/%E4%B8%89%E6%9D%AF%E9%9B%9E_bvn4av.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "38",
+      "title": "炒芥蘭菜",
+      "engTitle": "Sautéed Chinese Broccoli",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E8%8A%A5%E8%97%8D_hxn8el.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "39",
+      "title": "炒青江菜",
+      "engTitle": "Stir-Fried Bok Choy",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713496/%E7%82%92%E9%9D%92%E6%B1%9F%E8%8F%9C_khvoae.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "40",
+      "title": "炒豆芽菜",
+      "engTitle": "Stir-Fried Bean Sprouts",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713458/%E7%82%92%E8%B1%86%E8%8A%BD%E8%8F%9C_zrgvzf.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "41",
+      "title": "炒蘑菇",
+      "engTitle": "Stir-Fried Mushrooms",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E7%A3%A8%E8%8F%87_nmxglf.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "42",
+      "title": "炒芹菜",
+      "engTitle": "Stir-Fried Celery",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E8%8A%B9%E8%8F%9C_iiaupo.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "43",
+      "title": "麻婆豆腐",
+      "engTitle": "Mapo Tofu",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713435/photo-ac_bcscf6.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "44",
+      "title": "螢光咖哩",
+      "engTitle": "Fluorescent Curry",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713523/%E8%9E%A2%E5%85%89%E5%92%96%E5%93%A9_dx8oev.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "45",
+      "title": "涼拌苦瓜",
+      "engTitle": "Cold Tossed Bitter Melon",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713517/%E6%B6%BC%E6%8B%8C%E8%8B%A6%E7%93%9C_adzs8y.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "46",
+      "title": "荷包蛋",
+      "engTitle": "Over-Egg",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713534/%E8%8D%B7%E5%8C%85%E8%9B%8B_yzwgbr.jpg",
+      "noBgImg": ""
+    },
+    {
+      "id": "59ee",
+      "title": "蔥爆牛肉555",
+      "engTitle": "Stir-fried Beef with Scallions2",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "noBgImg": ""
+    },
+    {
+      "id": "3f85",
+      "title": "蔥爆牛肉2",
+      "engTitle": "Stir-fried Beef with Scallions2",
+      "healthLevel": 4.5,
+      "starchPortion": 0,
+      "proteinPortion": 0.25,
+      "vegetablePortion": 0.5,
+      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+    "noBgImg": ""
+    }
+  ],
+  "selections": [
+    {
+      "id": "自動生成 | 時間戳記",
+      "userId": "記錄是哪個使用者選的",
+      "dishId": "記錄是哪一道菜色",
+      "preferenceLevel": "number (1~5，1為間隔)"
+    }
+  ],
+  "records": [
+    {
+      "id": "ooooo(這筆紀錄的id)",
+      "userId": "ZZZ(對應使用者id, 記錄是哪個使用者產生的便當)",
+      "stapleCourse": "aaaaaaaaaaaaa(主食的id)",
+      "mainCourse": "bbbbbbbbbbb(主菜的id)",
+      "sideDishes": [
+        "c11111111(第一格配菜的id)",
+        "c22222222(第二格配菜的id)",
+        "c33333333(第三格配菜的id)"
+      ],
+      "date": "XXX(記錄是哪一天)，可考慮用時間戳記",
+      "mealType": "lunch | dinner",
+      "starchTotalPortion": "澱粉份量總和",
+      "proteinTotalPortion": "蛋白質份量總和",
+      "vegetableTotalPortion": "蔬菜份量總和"
+    }
+  ]
+}
