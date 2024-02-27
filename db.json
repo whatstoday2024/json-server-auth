@@ -15,6 +15,7 @@
     {
       "id": "1",
       "title": "蔥爆牛肉",
+      "category": "主菜類",
       "engTitle": "Stir-fried Beef with Scallions",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -26,6 +27,7 @@
     {
       "id": "2",
       "title": "紅燒獅子頭",
+      "category": "主菜類",
       "engTitle": "Braised Lion's Head (pork balls)",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -37,6 +39,7 @@
     {
       "id": "3",
       "title": "炸雞排",
+      "category": "主菜類",
       "engTitle": "Fried Chicken Cutlet",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -48,6 +51,7 @@
     {
       "id": "4",
       "title": "滷豬腳",
+      "category": "主菜類",
       "engTitle": "Braised Pig's Trotters",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -59,6 +63,7 @@
     {
       "id": "5",
       "title": "炒皇帝豆",
+      "category": "配菜類",
       "engTitle": "Stir-Fried Lima Beans",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -70,6 +75,7 @@
     {
       "id": "6",
       "title": "炒四季豆",
+      "category": "配菜類",
       "engTitle": "Stir-Fried French Beans",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -81,6 +87,7 @@
     {
       "id": "7",
       "title": "炒絲瓜",
+      "category": "配菜類",
       "engTitle": "Stir-Fried Loofah",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -92,6 +99,7 @@
     {
       "id": "8",
       "title": "醬煮豬肝",
+      "category": "配菜類",
       "engTitle": "Braised Pig's Liver in Sauce",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -103,6 +111,7 @@
     {
       "id": "9",
       "title": "豆干肉絲",
+      "category": "配菜類",
       "engTitle": "Dried Tofu with Shredded Pork",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -114,6 +123,7 @@
     {
       "id": "10",
       "title": "滷蛋",
+      "category": "配菜類",
       "engTitle": "Egg",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -125,6 +135,7 @@
     {
       "id": "11",
       "title": "紅燒豆腐",
+      "category": "配菜類",
       "engTitle": "Braised Tofu in Soy Sauce",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -136,6 +147,7 @@
     {
       "id": "12",
       "title": "雞蛋豆腐",
+      "category": "配菜類",
       "engTitle": "Egg Tofu",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -147,6 +159,7 @@
     {
       "id": "13",
       "title": "煎香腸",
+      "category": "主菜類",
       "engTitle": "Pan-fried Sausage",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -158,6 +171,7 @@
     {
       "id": "14",
       "title": "梅菜扣肉",
+      "category": "主菜類",
       "engTitle": "Preserved Vegetable Braised Pork",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -169,6 +183,7 @@
     {
       "id": "15",
       "title": "銷魂滷排骨",
+      "category": "主菜類",
       "engTitle": "Flavorful Braised Spare Ribs",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -180,6 +195,7 @@
     {
       "id": "16",
       "title": "炒花椰菜",
+      "category": "配菜類",
       "engTitle": "Stir-Fried Cauliflower",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -191,6 +207,7 @@
     {
       "id": "17",
       "title": "水煮菠菜",
+      "category": "配菜類",
       "engTitle": "Boiled Spinach",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -202,6 +219,7 @@
     {
       "id": "18",
       "title": "炒木耳",
+      "category": "配菜類",
       "engTitle": "Stir-Fried Black Fungus",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -213,6 +231,7 @@
     {
       "id": "19",
       "title": "炒秋葵",
+      "category": "配菜類",
       "engTitle": "Stir-Fried Okra",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -224,6 +243,7 @@
     {
       "id": "20",
       "title": "白菜滷",
+      "category": "配菜類",
       "engTitle": "Braised Cabbage",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -235,6 +255,7 @@
     {
       "id": "21",
       "title": "魚香豆腐",
+      "category": "配菜類",
       "engTitle": "Fish-flavored Tofu",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -246,6 +267,7 @@
     {
       "id": "22",
       "title": "番茄炒蛋",
+      "category": "配菜類",
       "engTitle": "Scrambled Eggs with Tomatoes",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -257,6 +279,7 @@
     {
       "id": "23",
       "title": "滷豆腐",
+      "category": "配菜類",
       "engTitle": "Braised Tofu",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -268,6 +291,7 @@
     {
       "id": "24",
       "title": "糖醋排骨",
+      "category": "主菜類",
       "engTitle": "Sweet and Sour Spare Ribs",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -279,6 +303,7 @@
     {
       "id": "25",
       "title": "椒鹽排骨",
+      "category": "主菜類",
       "engTitle": "Salt and Pepper Spare Ribs",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -290,6 +315,7 @@
     {
       "id": "26",
       "title": "紅燒肉",
+      "category": "主菜類",
       "engTitle": "Braised Pork Belly",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -301,6 +327,7 @@
     {
       "id": "27",
       "title": "滷雞腿",
+      "category": "主菜類",
       "engTitle": "Braised Chicken Leg",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -312,6 +339,7 @@
     {
       "id": "28",
       "title": "香煎魚排",
+      "category": "主菜類",
       "engTitle": "Pan-fried Fish Fillet",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -323,6 +351,7 @@
     {
       "id": "29",
       "title": "炒空心菜",
+      "category": "配菜類",
       "engTitle": "Stir-Fried Water Spinach",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -334,6 +363,7 @@
     {
       "id": "30",
       "title": "炒高麗菜",
+      "category": "配菜類",
       "engTitle": "Stir-Fried Napa Cabbage",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -345,6 +375,7 @@
     {
       "id": "31",
       "title": "紅蘿蔔炒蛋",
+      "category": "配菜類",
       "engTitle": "Scrambled Eggs with Carrot",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -356,6 +387,7 @@
     {
       "id": "32",
       "title": "百頁豆腐",
+      "category": "配菜類",
       "engTitle": "Hundred-Layer Tofu",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -367,6 +399,7 @@
     {
       "id": "33",
       "title": "紅燒茄子",
+      "category": "配菜類",
       "engTitle": "Braised Eggplant in Soy Sauce",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -378,6 +411,7 @@
     {
       "id": "34",
       "title": "洋蔥炒蛋",
+      "category": "配菜類",
       "engTitle": "Scrambled Eggs with Onions",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -389,6 +423,7 @@
     {
       "id": "35",
       "title": "煎鮭魚",
+      "category": "主菜類",
       "engTitle": "Pan-seared Salmon",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -400,6 +435,7 @@
     {
       "id": "36",
       "title": "蒜泥白肉",
+      "category": "主菜類",
       "engTitle": "Garlic-flavored Pork Belly",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -411,6 +447,7 @@
     {
       "id": "37",
       "title": "塔香三杯雞",
+      "category": "主菜類",
       "engTitle": "Three-Cup Chicken with Basil",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -422,6 +459,7 @@
     {
       "id": "38",
       "title": "炒芥蘭菜",
+      "category": "配菜類",
       "engTitle": "Sautéed Chinese Broccoli",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -433,6 +471,7 @@
     {
       "id": "39",
       "title": "炒青江菜",
+      "category": "配菜類",
       "engTitle": "Stir-Fried Bok Choy",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -444,6 +483,7 @@
     {
       "id": "40",
       "title": "炒豆芽菜",
+      "category": "配菜類",
       "engTitle": "Stir-Fried Bean Sprouts",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -455,6 +495,7 @@
     {
       "id": "41",
       "title": "炒蘑菇",
+      "category": "配菜類",
       "engTitle": "Stir-Fried Mushrooms",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -466,6 +507,7 @@
     {
       "id": "42",
       "title": "炒芹菜",
+      "category": "配菜類",
       "engTitle": "Stir-Fried Celery",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -477,6 +519,7 @@
     {
       "id": "43",
       "title": "麻婆豆腐",
+      "category": "配菜類",
       "engTitle": "Mapo Tofu",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -488,6 +531,7 @@
     {
       "id": "44",
       "title": "螢光咖哩",
+      "category": "配菜類",
       "engTitle": "Fluorescent Curry",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -499,6 +543,7 @@
     {
       "id": "45",
       "title": "涼拌苦瓜",
+      "category": "配菜類",
       "engTitle": "Cold Tossed Bitter Melon",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -510,6 +555,7 @@
     {
       "id": "46",
       "title": "荷包蛋",
+      "category": "配菜類",
       "engTitle": "Over-Egg",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -520,7 +566,8 @@
     },
     {
       "id": "59ee",
-      "title": "蔥爆牛肉555",
+      "title": "蔥爆牛肉",
+      "category": "主菜類",
       "engTitle": "Stir-fried Beef with Scallions2",
       "healthLevel": 4.5,
       "starchPortion": 0,
@@ -528,17 +575,6 @@
       "vegetablePortion": 0.5,
       "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
       "noBgImg": ""
-    },
-    {
-      "id": "3f85",
-      "title": "蔥爆牛肉2",
-      "engTitle": "Stir-fried Beef with Scallions2",
-      "healthLevel": 4.5,
-      "starchPortion": 0,
-      "proteinPortion": 0.25,
-      "vegetablePortion": 0.5,
-      "img": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-    "noBgImg": ""
     }
   ],
   "selections": [
