@@ -4,7 +4,8 @@
       "id": "UFJNmk3",
       "email": "whatstoday2024@gmail.com",
       "password": "$2a$10$Tb7Lsq8/rPE1Ev6UgX0i6OKjEGfYb9fbhPwU/F8UoW65qeDPGyn.a",
-      "isAdmin": "true"
+      "isAdmin": "true",
+      "nickname": "whatstoday"
     }
   ],
   "dishes": [
@@ -688,6 +689,16 @@
       "starchTotalPortion": "澱粉份量總和",
       "proteinTotalPortion": "蛋白質份量總和",
       "vegetableTotalPortion": "蔬菜份量總和"
+    }
+  ],
+  "freeDays": [
+    {
+      "id": "UEBNxw1",
+      "userId": "UFJNmk3",
+      "weekly": [0, 2, 3],
+      "monthly": [6, 10, 14],
+      "yearly": ["03/16", "08/15"],
+      "specific": ["2024/02/04", "2024/02/06"]
     }
   ]
 }
