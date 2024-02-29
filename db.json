@@ -695,10 +695,10 @@
     {
       "id": "UEBNxw1",
       "userId": "UFJNmk3",
-      "weekly": [0, 2, 3],
-      "monthly": [6, 10, 14],
-      "yearly": ["03/16", "08/15"],
-      "specific": ["2024/02/04", "2024/02/06"]
+      "weekly": [5],
+      "monthly": [5],
+      "yearly": ["03/06"],
+      "specific": ["2024/01/15"]
     }
   ]
 }
