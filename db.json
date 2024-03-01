@@ -6,6 +6,12 @@
       "password": "$2a$10$Tb7Lsq8/rPE1Ev6UgX0i6OKjEGfYb9fbhPwU/F8UoW65qeDPGyn.a",
       "isAdmin": "true",
       "nickname": "whatstoday"
+    },
+    {
+      "email": "sky030blue030@gmail.com",
+      "password": "$2a$10$qI40e.hNcCgUXwuhwIRhSuptpGu2Z6L5meFNLTS0MYX5wD1T81Mea",
+      "nickname": "sky030blue030@gmail.com",
+      "id": "2vttA88"
     }
   ],
   "dishes": [
