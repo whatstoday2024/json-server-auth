@@ -96,8 +96,8 @@
       "starchPortion": 0,
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709287842213.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=XJAGJGcwn%2B6SJRWsej25cmOpdTeXAo9jELSKM05CKG10lbW6M7Eb49%2FQnZJNSyeLLbwtUa0JoTIUGeLwjNzpB0G%2F%2BdUlxxIbx6J3GznjvanYZ%2BMVsi69yxKLlLhgMPEMPDmp3MxN3ECUYeM4e2a43OojobJwV5SBu0bVk7dq%2BHcDoPi60FWwIRNx1zm%2BuHccpOXJDc9OFh%2BeTkjUtxGrGKjx3ufbFhNVmaXLybfOX6jDxDnODWvihXPTEBzeAfUV9wTa1JUEoEkFqZYD95UhXRi45zL%2BsXschDh4vxUvD5PL%2B%2BnEuk2MCfsexeBqi6tscDBq4DNRI6ahoNZeEjoT7g%3D%3D",
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709287842213.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=XJAGJGcwn%2B6SJRWsej25cmOpdTeXAo9jELSKM05CKG10lbW6M7Eb49%2FQnZJNSyeLLbwtUa0JoTIUGeLwjNzpB0G%2F%2BdUlxxIbx6J3GznjvanYZ%2BMVsi69yxKLlLhgMPEMPDmp3MxN3ECUYeM4e2a43OojobJwV5SBu0bVk7dq%2BHcDoPi60FWwIRNx1zm%2BuHccpOXJDc9OFh%2BeTkjUtxGrGKjx3ufbFhNVmaXLybfOX6jDxDnODWvihXPTEBzeAfUV9wTa1JUEoEkFqZYD95UhXRi45zL%2BsXschDh4vxUvD5PL%2B%2BnEuk2MCfsexeBqi6tscDBq4DNRI6ahoNZeEjoT7g%3D%3D"
     },
     {
       "id": "8",
@@ -432,7 +432,7 @@
       "starchPortion": 0,
       "proteinPortion": 0.75,
       "vegetablePortion": 0,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E7%85%8E%E9%AE%AD%E9%AD%9A_k2sudo.png",
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709288063435.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=aqKUHXYvyMBVN2eJA3iO3Tv0z7HeNMIqDq17d7u6bQfIHAjRUhIPCK1wyyBdfZQP9yWVMVITWeS%2B4mkOq2enYUtFoNg92xmIULye7c0ItIVGoMFIpEGrUdAOK8fzv3XQQ9BNgsEpFiDvSLoSnbgpJiUoccT0daCqpaoz77Q1vYIIKBGs2oHp0aqlybyDjEe0xy99bzT5%2BQPGfJw%2BlFvo3AQp%2Boz4XvYIvQOeTD2FJwtmiHLqknQrlanhfHzfqPP%2BKfBMaDSPhKxRKGKzzAZcQcjP7XCP09GdbhPadrOi2f11yOp2PXfDauUUn%2FItLZwbbvLZNv6UIpp65zQr%2F2W9QQ%3D%3D",
       "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E7%85%8E%E9%AE%AD%E9%AD%9A_k2sudo.png"
     },
     {
@@ -444,7 +444,7 @@
       "starchPortion": 0,
       "proteinPortion": 2.5,
       "vegetablePortion": 0,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E8%92%9C%E6%B3%A5%E7%99%BD%E8%82%89_y4mcn3.png",
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709288042193.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=ZVhkqmWR3eOkw4FYR1HTFK2%2FQIGBo2JTxTZxfJLrnGXnd9bfsRF5rqNveRE%2B3BnfzZww9R%2BrwQYHdA9PqZygKJ%2BOoEa8H9IWYGbh9fipKQIPPtQCbS7nsfO3640FfIx%2BmzYVOJ8%2FyP%2FH3EnjMaAJ3mqeV4eui%2BkW2fc5HAG9QGt0zCQH4YNRY%2BRvT3xRe1rRP%2BBK8BE3Rt4%2FD3zaVV4txzhPvzyREdem5R4%2F%2BgaarlTHgFx6ZOuGWb%2B9BdBL8zGm0Foepj8cN21yJvl6uZaepEHmurXsy7tjHC%2BBWkPc%2BCo3LhwZKU7FQA%2BdUWxa9hXlC1KxCCPG6hTDgQzk1yaDaA%3D%3D",
       "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E8%92%9C%E6%B3%A5%E7%99%BD%E8%82%89_y4mcn3.png"
     },
     {
