@@ -24,26 +24,20 @@
       "starchPortion": 0.25,
       "proteinPortion": 0.75,
       "vegetablePortion": 0.25,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg"
-      ]
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284679910.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=hP0JZasbKXE0LEU%2BFJSFCehMODiKB4RlZZwb30Rn1cQZpu%2FFOnKkUYOXFnGcV4hYcxSixpTTiRMH2R%2FJUbnj0vGuEGNxQnZb7LAobCsx3WQYu8HgApgjPjiVx%2FM50KIiwlK8Q9n4eUWdxXU%2BTZHxYPiuUXk8%2BzMR99ErCTP5Ic0h69Jkpy7SD7Rf%2Fn4bkYoF9pnRlOgHaG78P0dsZ%2F9fPzBtUId1sBsNTiTVQQUgap2N%2F3RHY04T8YEA1xRLLbWzPC7RUrn%2FcrDThZEjeTIug7AmJb4rmkCmubfRdHmMheK2n%2FN4tPDRIueMBKo%2B3TR2QKYXHgwwd2JWxkoZopotVw%3D%3D",
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284691570.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=eJy9vCPuUZnJopH%2FEYKS%2FN4M%2BwjfwRVGkFZ46z8djt53YKwHQtZCrZ1BdW03SXgzB2ffJGyrv9luPLk0UrIKWQJ4XbcNj%2FY0tunp%2FMEuHpZXU6FmWr%2FqLWe%2BoUhkpzj%2BacYuemcp%2BaDyCNiIZWBYNksYFbGY%2B5B%2FhuayYL%2Fc77Bsr93owA1Yrba9ArjD0iQswxcqvwx5gc%2B6Ck%2F9f69X2kXVns4yYWEgAl%2F3%2F6giy4dhSrZm1Ke0sX0ZLu6Mi0T6IfGnps6jYmVV1e%2B4RVNdKqgNLenQ%2BDZF9QqUb5nj5N%2BuGZlGFiH18QxSu6rHyghX8lmPTWZYPxD45pKhc2v53Q%3D%3D"
     },
     {
       "id": "2",
       "title": "紅燒獅子頭",
       "engTitle": "Braised Lion's Head (pork balls)",
-      "category": "配菜類",
+      "category": "主菜類",
       "healthLevel": 3,
       "starchPortion": 0.25,
       "proteinPortion": 0.75,
       "vegetablePortion": 0,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg"
-      ]
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284161789.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=L3GfPR5dOO7UIXIaSpUKxjzyS7Ak3ekxlBKunm9k6EFv00BDWtofiFjx8h0VHp%2Btj4t4xyta53eF3NK%2FAhSV%2FmnjpsjCtOGXYIgdymLCaXPGWcFcQ5HYwP6zP7s75OarPsYCyAVrKulxiHRoF2YQjf2ZA1SH9chcA8H4isOY7ZmoxZD9fthDAAA%2BmoR5yU8PSlicsjPjPSvckbyf7G4qOF1t4ZCze%2Ff4WowgqG84Jpc%2BpZM59esiOyQQerpVWxWVOKkA0G%2Fya5hXMQtJBaopznlhWDMlZPAjMCvCaBXOal8n85%2BHaalROQtJIdkIG8mq0%2Fn1g%2BICoGCXoID2TMLurQ%3D%3D",
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284161789.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=L3GfPR5dOO7UIXIaSpUKxjzyS7Ak3ekxlBKunm9k6EFv00BDWtofiFjx8h0VHp%2Btj4t4xyta53eF3NK%2FAhSV%2FmnjpsjCtOGXYIgdymLCaXPGWcFcQ5HYwP6zP7s75OarPsYCyAVrKulxiHRoF2YQjf2ZA1SH9chcA8H4isOY7ZmoxZD9fthDAAA%2BmoR5yU8PSlicsjPjPSvckbyf7G4qOF1t4ZCze%2Ff4WowgqG84Jpc%2BpZM59esiOyQQerpVWxWVOKkA0G%2Fya5hXMQtJBaopznlhWDMlZPAjMCvCaBXOal8n85%2BHaalROQtJIdkIG8mq0%2Fn1g%2BICoGCXoID2TMLurQ%3D%3D"
     },
     {
       "id": "3",
@@ -54,26 +48,20 @@
       "starchPortion": 0.25,
       "proteinPortion": 0.5,
       "vegetablePortion": 0,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg"
-      ]
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284615252.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=QTvpJ4NdhgHBgBGN%2FCQbTesIXpdsRk9eXNdXJj4n4heReMdWvz3iLXUhBMvvdmwubkGSHOI4Mx3mKV3VK8JMCm3Ewril9sFOPKUjal%2B3RgxFbKOpblMGQ6vKjfWcBUCFQ8mSv0c368VrbXAlwGMLcnEIGVsZhCsEt1Hcqon3rQ4YIGF857jjgzhy8qRu5cB4JIOk1OReP49kRWpkrElxNQk8BZUDBkqYyJfdv7DLlVCXmJn51REw3JKYobCCeymkionpUHQRi97z1AX5%2BbDiH2n8uiuY1fgpaHfntmERDTGEKYxhCXPwEyOQfSCTt9Faauv2ba%2Bjl1c9XLK2KK6yyQ%3D%3D",
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284636287.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Ro1Jcj09z9fmEXe8ZgJ95Gy%2BZqIYbcf%2FzgBtqWMQ0sUnzCISTAB2GuJrKrRp1csQDkZL1pQaR16W2aIAwukV7a9whJYgC6gUdJGnMLQJ%2FlV6FPa79lTxCE7GEFRQP52wuQxf%2BlhFWWJDUkEzYQpyQ4Qe6%2FM1jzjt2Lh2nV103tD5%2Bmhr8OjjAnR6WuByAhrssyObw61AbkRYR%2BE1VK62YxA%2F0sEiFQsXOLmrffIVAgl45olXPFancf92ZxPW4kFBOJ5p5M2Z8UtxMP8w74tMmBXsGsRyiANqgLFFLlBzIQCmbmE8pdv3CRYV2EhZqwkobhmsSOSVPYvIRp52vjibhQ%3D%3D"
     },
     {
       "id": "4",
       "title": "滷豬腳",
       "engTitle": "Braised Pig's Trotters",
-      "category": "配菜類",
+      "category": "主菜類",
       "healthLevel": 2.5,
       "starchPortion": 0,
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg"
-      ]
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284204199.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=OPM%2FATzRPt86JMJiyGtgfe3i97DkGGiDqAU0CwMTG8YWAmkpTSI%2BDmdxeqhgywOltpBfAe3ceAWCyO%2Br5W47WzBZk%2FZ6lWHih9M90FLgASkP0ThennXN2yuM1f2pZ1FtX7mFlXzLIpKM2vdJHbkchc81%2F2B4CBoIeOVqSZ38%2Bl4W5eBgreuCLKlOov4giThoq%2FuD8cKd7zREPr4QgsfT2U56Sgbyw5vIygo1bVsAvZERj%2BlwOHrR5LFtgDYRv7vWGQSvTnupYmG96z4d5NpiCIOjWpMR5QXYfKF3BQyuybq%2FtRCufoBODZNHToWLfaTvjuVUXZhW8kMN%2FGrC8Y8AYw%3D%3D",
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284237872.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=BA0KAfSptMXqeRW00OeWqstFJO67TFsM620EQbnRLWDw06iWvZf3HSa1ilIsxGPPM0pBqQXXrPeg2iELniMmsjE2WII24oFBggU6ZEz08ByvGRFzOZiNcRakmP53HLYqgGdRU%2BX%2BMr0GtFFS1tNMnbLA7df3Xjyc5XGOQYrPDFTs8LtfGuSHVQnLW0tph1MxeguD%2B2EprNcyACnOFJa1Ow20xT6lSRWW2g3zRFI%2FN%2Fapj3iTJqtqJF6jkupZ7l12F%2Bmc1QwwD9tDq5a%2BpE9LFVtEU2E9LJyjNTC4qNLRp7zdlX3NdRE9i3QILCyyeO78cTeDbRgVYnVmWnB24sZTrw%3D%3D"
     },
     {
       "id": "5",
@@ -84,11 +72,8 @@
       "starchPortion": 0,
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg"
-      ]
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284346277.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Cvao9s9bqES0o5tY1FalT%2B%2FsAd%2BW9yfkVf9H5I2eweJO999PBqjHY2oqg%2BHRL4nmFDHy9YP0N7SJI5D3cx9TwQr76qA01YM3zoRrCAjdbhbvMfKEd2LAKYw33qZjflTu7LAcmZrcmsgyNL561KBZNPLxCW3uWIRoGEUJfohoN36BEPyJr%2B0cXcpBkmI1Y8VRNBge%2FIwG107urM2hq7TI%2FsOtdNhUH44gSccXaQ2NNms1JW5h4UXS7PqEbmKR%2BVJR3xZeNSdsRECUWi5pPLUj%2FTUeda8jYP01S7ZpKoWNz%2BvLwoT2FJGooX5ATVFZT%2BXISAMzZnrdeeZR1G7Eb%2BC0xA%3D%3D",
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284346277.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Cvao9s9bqES0o5tY1FalT%2B%2FsAd%2BW9yfkVf9H5I2eweJO999PBqjHY2oqg%2BHRL4nmFDHy9YP0N7SJI5D3cx9TwQr76qA01YM3zoRrCAjdbhbvMfKEd2LAKYw33qZjflTu7LAcmZrcmsgyNL561KBZNPLxCW3uWIRoGEUJfohoN36BEPyJr%2B0cXcpBkmI1Y8VRNBge%2FIwG107urM2hq7TI%2FsOtdNhUH44gSccXaQ2NNms1JW5h4UXS7PqEbmKR%2BVJR3xZeNSdsRECUWi5pPLUj%2FTUeda8jYP01S7ZpKoWNz%2BvLwoT2FJGooX5ATVFZT%2BXISAMzZnrdeeZR1G7Eb%2BC0xA%3D%3D"
     },
     {
       "id": "6",
@@ -99,11 +84,8 @@
       "starchPortion": 0,
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg"
-      ]
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284382432.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=laVPc0ZZoh%2FJSwlltw59tvmmT2u0yS%2FIbq%2FOibCbk629cp%2Fsg8HyJVZYYo7sE4mAwfD5YdLZTuKxDi4KFGMhFxUqIDMiY25qMw6AnjvyhCN7DGxwD%2FyuJlvb3tpptUT6WgtFT%2BFMd3tyWnqmuBwh%2F2G8RORBq0hshlV3%2BEdZsxq8pT8wR9BdHQ0Dj%2FwGb5fqnD%2Fcx6%2FmAaQ8kr%2FbrWPEYO5b368N0puekSuY08nTKwOWrmeRC%2FA60x6IFOV1CqvYD0mAixcXYzgf33u9VIoHIAxL41TFWIEABzhGi9sAF9CL1Wwei8JmV6cSE8dCI%2FFKrV90l1tSZFT6GlDytSdXqA%3D%3D",
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284382432.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=laVPc0ZZoh%2FJSwlltw59tvmmT2u0yS%2FIbq%2FOibCbk629cp%2Fsg8HyJVZYYo7sE4mAwfD5YdLZTuKxDi4KFGMhFxUqIDMiY25qMw6AnjvyhCN7DGxwD%2FyuJlvb3tpptUT6WgtFT%2BFMd3tyWnqmuBwh%2F2G8RORBq0hshlV3%2BEdZsxq8pT8wR9BdHQ0Dj%2FwGb5fqnD%2Fcx6%2FmAaQ8kr%2FbrWPEYO5b368N0puekSuY08nTKwOWrmeRC%2FA60x6IFOV1CqvYD0mAixcXYzgf33u9VIoHIAxL41TFWIEABzhGi9sAF9CL1Wwei8JmV6cSE8dCI%2FFKrV90l1tSZFT6GlDytSdXqA%3D%3D"
     },
     {
       "id": "7",
@@ -115,25 +97,19 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
     },
     {
       "id": "8",
       "title": "醬煮豬肝",
       "engTitle": "Braised Pig's Liver in Sauce",
-      "category": "配菜類",
+      "category": "主菜類",
       "healthLevel": 3.5,
       "starchPortion": 0,
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg"
-      ]
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284268526.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=kNNO1O%2FGOF8HeGxBEwtn9ZZLzkxBkXlqcPm31YOAoSZbmPadm3E0W5lpnAEIqy%2BTQZvL8QSpNOziVEeZiQRQK4IMoOghqtre1gMMIn1ynSCHmb0fa2snxcSCm8h44ZyXAtHRpFHuA0sEc3%2FlUzFG1XFWmDzY7JIFn6jvHOyxI7iKfGPOGK3Mq2%2BjOfwqitmGKEUfAB3iQ8SOTRrCXaJkuB7h2ToS33anMiw7UB7OYi7P6bn7gZDelu7mnl6jJztCLswn6tET25ZuRqoXML82sdGY66qLlTvRGsOs0XNEliIpvrcBgStBKuKr32fiGQ%2BGpTauyZ7yDUE5fIDKmFs7fQ%3D%3D",
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284302785.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=CdizNXWpiDN%2F%2FH5QRHfwTeR1W3Eb%2B4WIiLLHOwbkiTH4wlEkfb7e%2FC2ZXxfoDC4kqCYdIXhITjiWmPHaw8HMyGAeb7y44a86WlhREEXzjHnUMDp5Y4Rthe%2FIjalH9PrxVWa697uyWeWdIFKk4ObN2gNy7oJG6%2BV7JPQ%2Bi6WZDh2aRGO4Wthpqjh1fqtNOFM%2B2HpkX2YuVJax6DQQV1TqneG7woVsiS%2BCp%2FMNxhjhm%2BgN65RO9iGPHZfR3aAubM3iH631TKrJbY06zx%2BI5uPFGbne%2Fsg2XdfReY%2F7LUnHRN4waGldIiMVbThfkqWFnc0ar%2BNcWxl6TjmLzLv8lHcW7g%3D%3D"
     },
     {
       "id": "9",
@@ -144,11 +120,8 @@
       "starchPortion": 0,
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg"
-      ]
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284553453.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=FIuLRlje6Qy62KwQgNh6TOilORphAT9CNwtakBnGRQMdEsRPYkU8MQYcoGE6KYE5b%2Ba3htpc%2By4Yq5YmiOOsejR1UMos6XilD1OaFVDKfM69CpH3P0ubNRf5JxrTLbRQDdNlwoAaTlrsYFAv2chHPS38Pg99TNEuaEX8ftW6mrSCG1keYF3%2FalxxOelH02YzU4OrsvFYV3uT6fOUD7dUjuZwt2ZBxYGVfq5khimWsVcHgDzpRTR7UajpNl8%2BG2WiVEy1BV1DnDn2sF2LeHbH9tUITTILfsFzKGRsci4%2BghluEtvzvgw8z7SYGT8d7F3%2Fyr2TQ140Neot5%2BsKDpE3gw%3D%3D",
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284553453.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=FIuLRlje6Qy62KwQgNh6TOilORphAT9CNwtakBnGRQMdEsRPYkU8MQYcoGE6KYE5b%2Ba3htpc%2By4Yq5YmiOOsejR1UMos6XilD1OaFVDKfM69CpH3P0ubNRf5JxrTLbRQDdNlwoAaTlrsYFAv2chHPS38Pg99TNEuaEX8ftW6mrSCG1keYF3%2FalxxOelH02YzU4OrsvFYV3uT6fOUD7dUjuZwt2ZBxYGVfq5khimWsVcHgDzpRTR7UajpNl8%2BG2WiVEy1BV1DnDn2sF2LeHbH9tUITTILfsFzKGRsci4%2BghluEtvzvgw8z7SYGT8d7F3%2Fyr2TQ140Neot5%2BsKDpE3gw%3D%3D"
     },
     {
       "id": "10",
@@ -160,10 +133,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
     },
     {
       "id": "11",
@@ -174,10 +144,8 @@
       "starchPortion": 0,
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713455/%E7%99%BE%E9%A0%81%E8%B1%86%E8%85%90_vk7hqk.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713455/%E7%99%BE%E9%A0%81%E8%B1%86%E8%85%90_vk7hqk.png"
-      ]
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284845527.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Mbox6Xn%2F5eRL7DEbTrBfiQA0EG1oycZt2gCirWoN5RViHOWOJZd9nTm3cpf7JuJ%2FQ6oJYex6k6NHkl0FHB6gHms3y%2F9OJjI2klZkut5A2D4zQHg0Eq%2FQDF40%2Bmeubxyr8jMs4jvebUOvv8xc6J0qM%2BoPrc2QFCw%2FtVP2yp1JfKOHjxZDMgbqvK6AEi72QM4phoVwBeZQ3PLWHat71jBpjJLVa7Pk0FuNKqOKpdJdKwLocH8uJ6kmdAv%2BCUZSUuxlH%2F9Rmo5qxlns2Ov7%2B5eEcd1mhKRNDTGPs%2BLRdynf4liwZtVMmnhH1iNbziSp%2BxK4h0YlN26U09%2FYOVptI7tx4A%3D%3D",
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284845527.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Mbox6Xn%2F5eRL7DEbTrBfiQA0EG1oycZt2gCirWoN5RViHOWOJZd9nTm3cpf7JuJ%2FQ6oJYex6k6NHkl0FHB6gHms3y%2F9OJjI2klZkut5A2D4zQHg0Eq%2FQDF40%2Bmeubxyr8jMs4jvebUOvv8xc6J0qM%2BoPrc2QFCw%2FtVP2yp1JfKOHjxZDMgbqvK6AEi72QM4phoVwBeZQ3PLWHat71jBpjJLVa7Pk0FuNKqOKpdJdKwLocH8uJ6kmdAv%2BCUZSUuxlH%2F9Rmo5qxlns2Ov7%2B5eEcd1mhKRNDTGPs%2BLRdynf4liwZtVMmnhH1iNbziSp%2BxK4h0YlN26U09%2FYOVptI7tx4A%3D%3D"
     },
     {
       "id": "12",
@@ -188,10 +156,8 @@
       "starchPortion": 0,
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
-      "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713455/%E7%99%BE%E9%A0%81%E8%B1%86%E8%85%90_vk7hqk.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713455/%E7%99%BE%E9%A0%81%E8%B1%86%E8%85%90_vk7hqk.png"
-      ]
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284765528.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mOZwoVhVwAjLNVmhiV44xWwnfhgR8lAA7MDssHPqvnbYiuL46%2BkLLMDC19Ez%2F6wMTIRis0aORSCBFerTIrJNE3icUoRZ7%2FNDEJzmbInAMAD%2BIWdZXTJ2N58Ho1XkLEWQtjHD50Ka7XKNGTbbcs%2BSOafe3Wn93j5G50pwPDtuwaoCBkK%2FQ5htxvnhC2%2B%2Bvm3MKFoHo9gIzDAqvdDiltnAAyIZ5OeTk1D8kaGrIImXaye%2BtJCbroMN7wFxdjCXrHLEGYlHFIiuH1ylgMsnZY7pMqthFhTYRXzFmTrPvHNzTQY1qH6k5GmgvJa650SBJlV8A703uUHvJfF6Y2JgNzHOdg%3D%3D",
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284765528.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mOZwoVhVwAjLNVmhiV44xWwnfhgR8lAA7MDssHPqvnbYiuL46%2BkLLMDC19Ez%2F6wMTIRis0aORSCBFerTIrJNE3icUoRZ7%2FNDEJzmbInAMAD%2BIWdZXTJ2N58Ho1XkLEWQtjHD50Ka7XKNGTbbcs%2BSOafe3Wn93j5G50pwPDtuwaoCBkK%2FQ5htxvnhC2%2B%2Bvm3MKFoHo9gIzDAqvdDiltnAAyIZ5OeTk1D8kaGrIImXaye%2BtJCbroMN7wFxdjCXrHLEGYlHFIiuH1ylgMsnZY7pMqthFhTYRXzFmTrPvHNzTQY1qH6k5GmgvJa650SBJlV8A703uUHvJfF6Y2JgNzHOdg%3D%3D"
     },
     {
       "id": "13",
@@ -203,9 +169,7 @@
       "proteinPortion": 2.5,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713396/-_Pan-fried_Sausage_mjczxu.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713396/-_Pan-fried_Sausage_mjczxu.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713396/-_Pan-fried_Sausage_mjczxu.png"
     },
     {
       "id": "14",
@@ -217,9 +181,7 @@
       "proteinPortion": 2.5,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714398/-_Preserved_Vegetable_Braised_Pork_javj4c.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707714398/-_Preserved_Vegetable_Braised_Pork_javj4c.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714398/-_Preserved_Vegetable_Braised_Pork_javj4c.png"
     },
     {
       "id": "15",
@@ -231,9 +193,7 @@
       "proteinPortion": 4,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713389/-_Flavorful_Braised_Spare_Ribs_pab5hk.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713389/-_Flavorful_Braised_Spare_Ribs_pab5hk.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713389/-_Flavorful_Braised_Spare_Ribs_pab5hk.png"
     },
     {
       "id": "16",
@@ -245,9 +205,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713425/-_Stir-Fried_Cauliflower_ibhm07.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713425/-_Stir-Fried_Cauliflower_ibhm07.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713425/-_Stir-Fried_Cauliflower_ibhm07.jpg"
     },
     {
       "id": "17",
@@ -259,9 +217,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713504/%E7%82%92%E8%8F%A0%E8%8F%9C_ffei4z.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713504/%E7%82%92%E8%8F%A0%E8%8F%9C_ffei4z.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713504/%E7%82%92%E8%8F%A0%E8%8F%9C_ffei4z.jpg"
     },
     {
       "id": "18",
@@ -273,10 +229,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713408/-_Stir-Fried_Black_Fungus_rutux6.jpg"
     },
     {
       "id": "19",
@@ -288,9 +241,7 @@
       "proteinPortion": 0,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713522/%E7%A7%8B%E8%91%B5_aip9qo.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713522/%E7%A7%8B%E8%91%B5_aip9qo.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713522/%E7%A7%8B%E8%91%B5_aip9qo.jpg"
     },
     {
       "id": "20",
@@ -302,9 +253,7 @@
       "proteinPortion": 0,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713452/%E7%99%BD%E8%8F%9C%E6%BB%B7_akz4ko.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713452/%E7%99%BD%E8%8F%9C%E6%BB%B7_akz4ko.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713452/%E7%99%BD%E8%8F%9C%E6%BB%B7_akz4ko.jpg"
     },
     {
       "id": "21",
@@ -316,9 +265,7 @@
       "proteinPortion": 1,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713071/-_Fish-flavored_Tofu_gybs8y.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713071/-_Fish-flavored_Tofu_gybs8y.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713071/-_Fish-flavored_Tofu_gybs8y.jpg"
     },
     {
       "id": "22",
@@ -330,9 +277,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713404/-_Scrambled_Eggs_with_Tomatoes_yjlw6b.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713404/-_Scrambled_Eggs_with_Tomatoes_yjlw6b.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713404/-_Scrambled_Eggs_with_Tomatoes_yjlw6b.jpg"
     },
     {
       "id": "23",
@@ -344,9 +289,7 @@
       "proteinPortion": 1,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707712975/-_Braised_Tofu_ck2d00.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707712975/-_Braised_Tofu_ck2d00.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707712975/-_Braised_Tofu_ck2d00.png"
     },
     {
       "id": "24",
@@ -358,9 +301,7 @@
       "proteinPortion": 2.5,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713519/%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8_wdogwc.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713519/%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8_wdogwc.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713519/%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8_wdogwc.png"
     },
     {
       "id": "25",
@@ -372,9 +313,7 @@
       "proteinPortion": 2.5,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713518/%E6%A4%92%E9%B9%BD%E6%8E%92%E9%AA%A8_lzfwfv.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713518/%E6%A4%92%E9%B9%BD%E6%8E%92%E9%AA%A8_lzfwfv.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713518/%E6%A4%92%E9%B9%BD%E6%8E%92%E9%AA%A8_lzfwfv.png"
     },
     {
       "id": "26",
@@ -386,9 +325,7 @@
       "proteinPortion": 3.5,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713523/%E7%B4%85%E7%87%92%E8%82%89_xhqizh.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713523/%E7%B4%85%E7%87%92%E8%82%89_xhqizh.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713523/%E7%B4%85%E7%87%92%E8%82%89_xhqizh.png"
     },
     {
       "id": "27",
@@ -400,9 +337,7 @@
       "proteinPortion": 3.5,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E6%BB%B7%E9%9B%9E%E8%85%BF_xptc11.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E6%BB%B7%E9%9B%9E%E8%85%BF_xptc11.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E6%BB%B7%E9%9B%9E%E8%85%BF_xptc11.png"
     },
     {
       "id": "28",
@@ -414,9 +349,7 @@
       "proteinPortion": 2.5,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713517/%E9%A6%99%E7%85%8E%E9%AD%9A%E6%8E%92_a4azki.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713517/%E9%A6%99%E7%85%8E%E9%AD%9A%E6%8E%92_a4azki.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713517/%E9%A6%99%E7%85%8E%E9%AD%9A%E6%8E%92_a4azki.png"
     },
     {
       "id": "29",
@@ -428,9 +361,7 @@
       "proteinPortion": 0,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713492/%E7%82%92%E7%A9%BA%E5%BF%83%E8%8F%9C_of6bdy.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713492/%E7%82%92%E7%A9%BA%E5%BF%83%E8%8F%9C_of6bdy.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713492/%E7%82%92%E7%A9%BA%E5%BF%83%E8%8F%9C_of6bdy.png"
     },
     {
       "id": "30",
@@ -442,9 +373,7 @@
       "proteinPortion": 0,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713494/%E7%82%92%E9%AB%98%E9%BA%97%E8%8F%9C_fwwane.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713494/%E7%82%92%E9%AB%98%E9%BA%97%E8%8F%9C_fwwane.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713494/%E7%82%92%E9%AB%98%E9%BA%97%E8%8F%9C_fwwane.png"
     },
     {
       "id": "31",
@@ -456,9 +385,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713518/%E7%B4%85%E8%98%BF%E8%94%94%E7%82%92%E8%9B%8B_ihxmpe.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713518/%E7%B4%85%E8%98%BF%E8%94%94%E7%82%92%E8%9B%8B_ihxmpe.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713518/%E7%B4%85%E8%98%BF%E8%94%94%E7%82%92%E8%9B%8B_ihxmpe.png"
     },
     {
       "id": "32",
@@ -470,9 +397,7 @@
       "proteinPortion": 1,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713455/%E7%99%BE%E9%A0%81%E8%B1%86%E8%85%90_vk7hqk.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713455/%E7%99%BE%E9%A0%81%E8%B1%86%E8%85%90_vk7hqk.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713455/%E7%99%BE%E9%A0%81%E8%B1%86%E8%85%90_vk7hqk.png"
     },
     {
       "id": "33",
@@ -484,9 +409,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713521/%E7%B4%85%E7%87%92%E8%8C%84%E5%AD%90_mecmj6.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713521/%E7%B4%85%E7%87%92%E8%8C%84%E5%AD%90_mecmj6.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713521/%E7%B4%85%E7%87%92%E8%8C%84%E5%AD%90_mecmj6.png"
     },
     {
       "id": "34",
@@ -498,9 +421,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713494/%E6%B4%8B%E8%94%A5%E7%82%92%E8%9B%8B_jlxupj.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713494/%E6%B4%8B%E8%94%A5%E7%82%92%E8%9B%8B_jlxupj.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713494/%E6%B4%8B%E8%94%A5%E7%82%92%E8%9B%8B_jlxupj.png"
     },
     {
       "id": "35",
@@ -512,9 +433,7 @@
       "proteinPortion": 0.75,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E7%85%8E%E9%AE%AD%E9%AD%9A_k2sudo.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E7%85%8E%E9%AE%AD%E9%AD%9A_k2sudo.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E7%85%8E%E9%AE%AD%E9%AD%9A_k2sudo.png"
     },
     {
       "id": "36",
@@ -526,9 +445,7 @@
       "proteinPortion": 2.5,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E8%92%9C%E6%B3%A5%E7%99%BD%E8%82%89_y4mcn3.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E8%92%9C%E6%B3%A5%E7%99%BD%E8%82%89_y4mcn3.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713520/%E8%92%9C%E6%B3%A5%E7%99%BD%E8%82%89_y4mcn3.png"
     },
     {
       "id": "37",
@@ -540,9 +457,7 @@
       "proteinPortion": 2.5,
       "vegetablePortion": 0,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713443/%E4%B8%89%E6%9D%AF%E9%9B%9E_bvn4av.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713443/%E4%B8%89%E6%9D%AF%E9%9B%9E_bvn4av.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713443/%E4%B8%89%E6%9D%AF%E9%9B%9E_bvn4av.png"
     },
     {
       "id": "38",
@@ -554,9 +469,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E8%8A%A5%E8%97%8D_hxn8el.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E8%8A%A5%E8%97%8D_hxn8el.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E8%8A%A5%E8%97%8D_hxn8el.jpg"
     },
     {
       "id": "39",
@@ -568,9 +481,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713496/%E7%82%92%E9%9D%92%E6%B1%9F%E8%8F%9C_khvoae.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713496/%E7%82%92%E9%9D%92%E6%B1%9F%E8%8F%9C_khvoae.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713496/%E7%82%92%E9%9D%92%E6%B1%9F%E8%8F%9C_khvoae.png"
     },
     {
       "id": "40",
@@ -582,9 +493,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713458/%E7%82%92%E8%B1%86%E8%8A%BD%E8%8F%9C_zrgvzf.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713458/%E7%82%92%E8%B1%86%E8%8A%BD%E8%8F%9C_zrgvzf.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713458/%E7%82%92%E8%B1%86%E8%8A%BD%E8%8F%9C_zrgvzf.jpg"
     },
     {
       "id": "41",
@@ -596,9 +505,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E7%A3%A8%E8%8F%87_nmxglf.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E7%A3%A8%E8%8F%87_nmxglf.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E7%A3%A8%E8%8F%87_nmxglf.jpg"
     },
     {
       "id": "42",
@@ -610,9 +517,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E8%8A%B9%E8%8F%9C_iiaupo.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E8%8A%B9%E8%8F%9C_iiaupo.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E8%8A%B9%E8%8F%9C_iiaupo.jpg"
     },
     {
       "id": "43",
@@ -624,9 +529,7 @@
       "proteinPortion": 0.5,
       "vegetablePortion": 0.25,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713435/photo-ac_bcscf6.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713435/photo-ac_bcscf6.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713435/photo-ac_bcscf6.jpg"
     },
     {
       "id": "44",
@@ -638,9 +541,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713523/%E8%9E%A2%E5%85%89%E5%92%96%E5%93%A9_dx8oev.png",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713523/%E8%9E%A2%E5%85%89%E5%92%96%E5%93%A9_dx8oev.png"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713523/%E8%9E%A2%E5%85%89%E5%92%96%E5%93%A9_dx8oev.png"
     },
     {
       "id": "45",
@@ -652,9 +553,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.5,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713517/%E6%B6%BC%E6%8B%8C%E8%8B%A6%E7%93%9C_adzs8y.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713517/%E6%B6%BC%E6%8B%8C%E8%8B%A6%E7%93%9C_adzs8y.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713517/%E6%B6%BC%E6%8B%8C%E8%8B%A6%E7%93%9C_adzs8y.jpg"
     },
     {
       "id": "46",
@@ -666,9 +565,7 @@
       "proteinPortion": 1,
       "vegetablePortion": 0.25,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713534/%E8%8D%B7%E5%8C%85%E8%9B%8B_yzwgbr.jpg",
-      "images": [
-        "https://res.cloudinary.com/dfvtounam/image/upload/v1707713534/%E8%8D%B7%E5%8C%85%E8%9B%8B_yzwgbr.jpg"
-      ]
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713534/%E8%8D%B7%E5%8C%85%E8%9B%8B_yzwgbr.jpg"
     },
     {
       "id": "47",
@@ -680,9 +577,7 @@
       "proteinPortion": 1,
       "vegetablePortion": 0,
       "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266090279.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=KHtCzmcK85egLcrqGWB5porNahmryPLUpJ8tIfbcmwliXBRKrtw5GA3lKmKSANUzn3YDMX4asRuH4Z0KViF2H2mC6%2FMlzeTvwM3X%2F%2FRWBMrQOuyqNg1UhrLgvBvzLeMX0V3uHPmwY5L2jLkCmRjLKuYpXdY3h1YLc7pg0VSACmCNHJRDuVwTMW88d%2BGaatCW%2Fsrn60T0UKICQ4gBsJTvuSuoEqWm9Tm7iJPtqztLTL%2BBsr2%2F1pFfQMKyY6OrelfhNINPHp82OG2NLEg1salWUSROgTXSP8tObKuNdlAS4mqxhTObPX2vg1fzcojn2mBakegmCJoPc0%2BVvXi3cbM%2BaQ%3D%3D",
-      "images": [
-        "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266090279.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=KHtCzmcK85egLcrqGWB5porNahmryPLUpJ8tIfbcmwliXBRKrtw5GA3lKmKSANUzn3YDMX4asRuH4Z0KViF2H2mC6%2FMlzeTvwM3X%2F%2FRWBMrQOuyqNg1UhrLgvBvzLeMX0V3uHPmwY5L2jLkCmRjLKuYpXdY3h1YLc7pg0VSACmCNHJRDuVwTMW88d%2BGaatCW%2Fsrn60T0UKICQ4gBsJTvuSuoEqWm9Tm7iJPtqztLTL%2BBsr2%2F1pFfQMKyY6OrelfhNINPHp82OG2NLEg1salWUSROgTXSP8tObKuNdlAS4mqxhTObPX2vg1fzcojn2mBakegmCJoPc0%2BVvXi3cbM%2BaQ%3D%3D"
-      ]
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266090279.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=KHtCzmcK85egLcrqGWB5porNahmryPLUpJ8tIfbcmwliXBRKrtw5GA3lKmKSANUzn3YDMX4asRuH4Z0KViF2H2mC6%2FMlzeTvwM3X%2F%2FRWBMrQOuyqNg1UhrLgvBvzLeMX0V3uHPmwY5L2jLkCmRjLKuYpXdY3h1YLc7pg0VSACmCNHJRDuVwTMW88d%2BGaatCW%2Fsrn60T0UKICQ4gBsJTvuSuoEqWm9Tm7iJPtqztLTL%2BBsr2%2F1pFfQMKyY6OrelfhNINPHp82OG2NLEg1salWUSROgTXSP8tObKuNdlAS4mqxhTObPX2vg1fzcojn2mBakegmCJoPc0%2BVvXi3cbM%2BaQ%3D%3D"
     },
     {
       "id": "48",
@@ -694,9 +589,7 @@
       "proteinPortion": 1,
       "vegetablePortion": 0.5,
       "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266230380.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=lItVPYec0JuEwtJbiOGbYHwGYOWcDKNGAa8xjO2sBrhiGQmgLbLrnX3ZO9guuezlaFR20Mn090R8C9dwndSt9PF2z6%2BLlmWYgedwiVYYE6zKUby68C1QwK3URGOJeKnU2H%2BhXpCw8FodoBfOsqmmzAIN2eAV5y86qlb6O0cKYCTs%2BL0spmv%2BdS3Oqth%2BJYAbiF8lwVsi%2F19OzS2Bd%2BeTCtvvV1N7DQ%2BkbZtGi89R%2FqLUYzLOzPyo2pKxoTMz1%2Fs9K%2BUtgsA3FnEj9VX00SEhli34Bz4%2BKc3%2BBaQ6l2bTJNUEil3vA9qJeqvwtz%2B0LWdKX%2BX9Y%2F3imCif8WUyuwsQ1A%3D%3D",
-      "images": [
-        "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266230380.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=lItVPYec0JuEwtJbiOGbYHwGYOWcDKNGAa8xjO2sBrhiGQmgLbLrnX3ZO9guuezlaFR20Mn090R8C9dwndSt9PF2z6%2BLlmWYgedwiVYYE6zKUby68C1QwK3URGOJeKnU2H%2BhXpCw8FodoBfOsqmmzAIN2eAV5y86qlb6O0cKYCTs%2BL0spmv%2BdS3Oqth%2BJYAbiF8lwVsi%2F19OzS2Bd%2BeTCtvvV1N7DQ%2BkbZtGi89R%2FqLUYzLOzPyo2pKxoTMz1%2Fs9K%2BUtgsA3FnEj9VX00SEhli34Bz4%2BKc3%2BBaQ6l2bTJNUEil3vA9qJeqvwtz%2B0LWdKX%2BX9Y%2F3imCif8WUyuwsQ1A%3D%3D"
-      ]
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266230380.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=lItVPYec0JuEwtJbiOGbYHwGYOWcDKNGAa8xjO2sBrhiGQmgLbLrnX3ZO9guuezlaFR20Mn090R8C9dwndSt9PF2z6%2BLlmWYgedwiVYYE6zKUby68C1QwK3URGOJeKnU2H%2BhXpCw8FodoBfOsqmmzAIN2eAV5y86qlb6O0cKYCTs%2BL0spmv%2BdS3Oqth%2BJYAbiF8lwVsi%2F19OzS2Bd%2BeTCtvvV1N7DQ%2BkbZtGi89R%2FqLUYzLOzPyo2pKxoTMz1%2Fs9K%2BUtgsA3FnEj9VX00SEhli34Bz4%2BKc3%2BBaQ6l2bTJNUEil3vA9qJeqvwtz%2B0LWdKX%2BX9Y%2F3imCif8WUyuwsQ1A%3D%3D"
     },
     {
       "id": "49",
@@ -708,9 +601,7 @@
       "proteinPortion": 1.5,
       "vegetablePortion": 0.5,
       "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266270698.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mMrpR1fo3b4g9RSsV1zwFRRfBQP%2FSxMec2mUs77qjAfFxfRF2TGA2htGtMWXX3aEwxS5G16%2Fha42E4rnyUszJrHBgg4eIOt6zaUkgpONp9%2BrZLlPiUIlSQIMAY%2FLJQkoYTPzv%2FEPfevsEzxMz9iqNhTDPRxK0AuMDTApKku9HqwT8JO54kNByrrY%2FbKXXtxnCBCK27rbjobKyesFzrmoeNmleg%2BmcteB6aDiunYan773d0K11F7wsW%2Fu9eP%2BtDOXEohgLJKDstHTPFlexXcoy80DJg76hC3ZB5uIq1JWaRtaKMrSP1HdcVsodvCUS4nCib9etTXcGfoOvVC%2F4%2FA5iQ%3D%3D",
-      "images": [
-        "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266270698.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mMrpR1fo3b4g9RSsV1zwFRRfBQP%2FSxMec2mUs77qjAfFxfRF2TGA2htGtMWXX3aEwxS5G16%2Fha42E4rnyUszJrHBgg4eIOt6zaUkgpONp9%2BrZLlPiUIlSQIMAY%2FLJQkoYTPzv%2FEPfevsEzxMz9iqNhTDPRxK0AuMDTApKku9HqwT8JO54kNByrrY%2FbKXXtxnCBCK27rbjobKyesFzrmoeNmleg%2BmcteB6aDiunYan773d0K11F7wsW%2Fu9eP%2BtDOXEohgLJKDstHTPFlexXcoy80DJg76hC3ZB5uIq1JWaRtaKMrSP1HdcVsodvCUS4nCib9etTXcGfoOvVC%2F4%2FA5iQ%3D%3D"
-      ]
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266270698.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mMrpR1fo3b4g9RSsV1zwFRRfBQP%2FSxMec2mUs77qjAfFxfRF2TGA2htGtMWXX3aEwxS5G16%2Fha42E4rnyUszJrHBgg4eIOt6zaUkgpONp9%2BrZLlPiUIlSQIMAY%2FLJQkoYTPzv%2FEPfevsEzxMz9iqNhTDPRxK0AuMDTApKku9HqwT8JO54kNByrrY%2FbKXXtxnCBCK27rbjobKyesFzrmoeNmleg%2BmcteB6aDiunYan773d0K11F7wsW%2Fu9eP%2BtDOXEohgLJKDstHTPFlexXcoy80DJg76hC3ZB5uIq1JWaRtaKMrSP1HdcVsodvCUS4nCib9etTXcGfoOvVC%2F4%2FA5iQ%3D%3D"
     },
     {
       "id": "50",
@@ -722,9 +613,7 @@
       "proteinPortion": 1,
       "vegetablePortion": 0,
       "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266451930.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=HSEv3A1nxWBcbfYkAHpZhdvF0vSFbzUusMSTASoAaYuzLeisV%2BuQIu04gl0JlNXuUqRF%2B0GW0qpsvzPuhmTO4ImmjWo23oAMGcQ8hoBxpTBg3S46UEPAB4PRLK3gTpBLn3vLXr23FgZP1iNz692Jm6KrjB5RAyhmFx4DqL3977jYddP4REbEEgPSa2Cis8SJJZ5vcnSSwSo389xJ1DflfVSLBryZvG99LjN4Jho1YyGKagsEvHnjq%2BGIfPL5IdblRmePHo730l4k6mwcQmccG61DCjWhEM2btn7Ew1wGMafmFhcZj2XS5j87saPxxoRLoVuQfo%2FnwVQmCMRm4PR2AQ%3D%3D",
-      "images": [
-        "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266451930.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=HSEv3A1nxWBcbfYkAHpZhdvF0vSFbzUusMSTASoAaYuzLeisV%2BuQIu04gl0JlNXuUqRF%2B0GW0qpsvzPuhmTO4ImmjWo23oAMGcQ8hoBxpTBg3S46UEPAB4PRLK3gTpBLn3vLXr23FgZP1iNz692Jm6KrjB5RAyhmFx4DqL3977jYddP4REbEEgPSa2Cis8SJJZ5vcnSSwSo389xJ1DflfVSLBryZvG99LjN4Jho1YyGKagsEvHnjq%2BGIfPL5IdblRmePHo730l4k6mwcQmccG61DCjWhEM2btn7Ew1wGMafmFhcZj2XS5j87saPxxoRLoVuQfo%2FnwVQmCMRm4PR2AQ%3D%3D"
-      ]
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266451930.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=HSEv3A1nxWBcbfYkAHpZhdvF0vSFbzUusMSTASoAaYuzLeisV%2BuQIu04gl0JlNXuUqRF%2B0GW0qpsvzPuhmTO4ImmjWo23oAMGcQ8hoBxpTBg3S46UEPAB4PRLK3gTpBLn3vLXr23FgZP1iNz692Jm6KrjB5RAyhmFx4DqL3977jYddP4REbEEgPSa2Cis8SJJZ5vcnSSwSo389xJ1DflfVSLBryZvG99LjN4Jho1YyGKagsEvHnjq%2BGIfPL5IdblRmePHo730l4k6mwcQmccG61DCjWhEM2btn7Ew1wGMafmFhcZj2XS5j87saPxxoRLoVuQfo%2FnwVQmCMRm4PR2AQ%3D%3D"
     },
     {
       "id": "51",
@@ -736,53 +625,52 @@
       "proteinPortion": 1,
       "vegetablePortion": 0,
       "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266508398.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=VNCxwLEEnY4XdEw9WWRqFaIZE6WgXt9XAKX7beoRLPx2Covzg6QmArJIHLDYFFjvCJzDipR0E9eJZ6KlkHZPo1dINXe0dWHb1kDRyiU1NHMg5FvdSvn0FI1U3JYFsNv%2ByaamTO9emVS6NXfNZDQMRGbX4x%2BGBFIN8dmzTwGhz2M%2FMqsRIqJohgRsfyXWmn0kjGVftvDr%2BKIn75H5Fx3FxdUZXo1LgMA%2B46h7pd9%2Bd9nzNu%2Bpt9C9T%2FtemS6xrw4chTDBpsuFoaOlFpDDRk%2Bwkt5nZ3IrIMevCEyW9kRjdWNm38Nrd1FgMe2hM0SnzcCO1q2CUPBNGFg7G5nUOpeUNQ%3D%3D",
-      "images": [
-        "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266508398.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=VNCxwLEEnY4XdEw9WWRqFaIZE6WgXt9XAKX7beoRLPx2Covzg6QmArJIHLDYFFjvCJzDipR0E9eJZ6KlkHZPo1dINXe0dWHb1kDRyiU1NHMg5FvdSvn0FI1U3JYFsNv%2ByaamTO9emVS6NXfNZDQMRGbX4x%2BGBFIN8dmzTwGhz2M%2FMqsRIqJohgRsfyXWmn0kjGVftvDr%2BKIn75H5Fx3FxdUZXo1LgMA%2B46h7pd9%2Bd9nzNu%2Bpt9C9T%2FtemS6xrw4chTDBpsuFoaOlFpDDRk%2Bwkt5nZ3IrIMevCEyW9kRjdWNm38Nrd1FgMe2hM0SnzcCO1q2CUPBNGFg7G5nUOpeUNQ%3D%3D"
-      ]
-    }
-  ],
-  "selections": [
-    {
-      "id": "自動生成 | 時間戳記",
-      "userId": "記錄是哪個使用者選的",
-      "dishId": "記錄是哪一道菜色",
-      "preferenceLevel": "number (1~5，1為間隔)"
-    }
-  ],
-  "records": [
-    {
-      "id": "ooooo(這筆紀錄的id)",
-      "userId": "ZZZ(對應使用者id, 記錄是哪個使用者產生的便當)",
-      "stapleCourse": "aaaaaaaaaaaaa(主食的id)",
-      "mainCourse": "bbbbbbbbbbb(主菜的id)",
-      "sideDishes": [
-        "c11111111(第一格配菜的id)",
-        "c22222222(第二格配菜的id)",
-        "c33333333(第三格配菜的id)"
-      ],
-      "date": "XXX(記錄是哪一天)，可考慮用時間戳記",
-      "mealType": "lunch | dinner",
-      "starchTotalPortion": "澱粉份量總和",
-      "proteinTotalPortion": "蛋白質份量總和",
-      "vegetableTotalPortion": "蔬菜份量總和"
-    }
-  ],
-  "freeDays": [
-    {
-      "id": "UEBNxw1",
-      "userId": "UFJNmk3",
-      "weekly": [
-        5
-      ],
-      "monthly": [
-        5
-      ],
-      "yearly": [
-        "03/06"
-      ],
-      "specific": [
-        "2024/01/15"
-      ]
-    }
-  ]
+      "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266508398.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=VNCxwLEEnY4XdEw9WWRqFaIZE6WgXt9XAKX7beoRLPx2Covzg6QmArJIHLDYFFjvCJzDipR0E9eJZ6KlkHZPo1dINXe0dWHb1kDRyiU1NHMg5FvdSvn0FI1U3JYFsNv%2ByaamTO9emVS6NXfNZDQMRGbX4x%2BGBFIN8dmzTwGhz2M%2FMqsRIqJohgRsfyXWmn0kjGVftvDr%2BKIn75H5Fx3FxdUZXo1LgMA%2B46h7pd9%2Bd9nzNu%2Bpt9C9T%2FtemS6xrw4chTDBpsuFoaOlFpDDRk%2Bwkt5nZ3IrIMevCEyW9kRjdWNm38Nrd1FgMe2hM0SnzcCO1q2CUPBNGFg7G5nUOpeUNQ%3D%3D"
+    ]
+  }
+],
+"selections": [
+  {
+    "id": "自動生成 | 時間戳記",
+    "userId": "記錄是哪個使用者選的",
+    "dishId": "記錄是哪一道菜色",
+    "preferenceLevel": "number (1~5，1為間隔)"
+  }
+],
+"records": [
+  {
+    "id": "ooooo(這筆紀錄的id)",
+    "userId": "ZZZ(對應使用者id, 記錄是哪個使用者產生的便當)",
+    "stapleCourse": "aaaaaaaaaaaaa(主食的id)",
+    "mainCourse": "bbbbbbbbbbb(主菜的id)",
+    "sideDishes": [
+      "c11111111(第一格配菜的id)",
+      "c22222222(第二格配菜的id)",
+      "c33333333(第三格配菜的id)"
+    ],
+    "date": "XXX(記錄是哪一天)，可考慮用時間戳記",
+    "mealType": "lunch | dinner",
+    "starchTotalPortion": "澱粉份量總和",
+    "proteinTotalPortion": "蛋白質份量總和",
+    "vegetableTotalPortion": "蔬菜份量總和"
+  }
+],
+"freeDays": [
+  {
+    "id": "UEBNxw1",
+    "userId": "UFJNmk3",
+    "weekly": [
+      5
+    ],
+    "monthly": [
+      5
+    ],
+    "yearly": [
+      "03/06"
+    ],
+    "specific": [
+      "2024/01/15"
+    ]
+  }
+]
 }
