@@ -663,6 +663,76 @@
       "images": [
         "https://res.cloudinary.com/dfvtounam/image/upload/v1707713534/%E8%8D%B7%E5%8C%85%E8%9B%8B_yzwgbr.jpg"
       ]
+    },
+    {
+      "id": "47",
+      "title": "白飯",
+      "engTitle": "White Rice",
+      "category": "主食類",
+      "healthLevel": 3,
+      "starchPortion": 4,
+      "proteinPortion": 1,
+      "vegetablePortion": 0,
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266090279.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=KHtCzmcK85egLcrqGWB5porNahmryPLUpJ8tIfbcmwliXBRKrtw5GA3lKmKSANUzn3YDMX4asRuH4Z0KViF2H2mC6%2FMlzeTvwM3X%2F%2FRWBMrQOuyqNg1UhrLgvBvzLeMX0V3uHPmwY5L2jLkCmRjLKuYpXdY3h1YLc7pg0VSACmCNHJRDuVwTMW88d%2BGaatCW%2Fsrn60T0UKICQ4gBsJTvuSuoEqWm9Tm7iJPtqztLTL%2BBsr2%2F1pFfQMKyY6OrelfhNINPHp82OG2NLEg1salWUSROgTXSP8tObKuNdlAS4mqxhTObPX2vg1fzcojn2mBakegmCJoPc0%2BVvXi3cbM%2BaQ%3D%3D",
+      "images": [
+        "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266090279.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=KHtCzmcK85egLcrqGWB5porNahmryPLUpJ8tIfbcmwliXBRKrtw5GA3lKmKSANUzn3YDMX4asRuH4Z0KViF2H2mC6%2FMlzeTvwM3X%2F%2FRWBMrQOuyqNg1UhrLgvBvzLeMX0V3uHPmwY5L2jLkCmRjLKuYpXdY3h1YLc7pg0VSACmCNHJRDuVwTMW88d%2BGaatCW%2Fsrn60T0UKICQ4gBsJTvuSuoEqWm9Tm7iJPtqztLTL%2BBsr2%2F1pFfQMKyY6OrelfhNINPHp82OG2NLEg1salWUSROgTXSP8tObKuNdlAS4mqxhTObPX2vg1fzcojn2mBakegmCJoPc0%2BVvXi3cbM%2BaQ%3D%3D"
+      ]
+    },
+    {
+      "id": "48",
+      "title": "糙米飯",
+      "engTitle": "Brown Rice",
+      "category": "主食類",
+      "healthLevel": 3.5,
+      "starchPortion": 4,
+      "proteinPortion": 1,
+      "vegetablePortion": 0.5,
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266230380.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=lItVPYec0JuEwtJbiOGbYHwGYOWcDKNGAa8xjO2sBrhiGQmgLbLrnX3ZO9guuezlaFR20Mn090R8C9dwndSt9PF2z6%2BLlmWYgedwiVYYE6zKUby68C1QwK3URGOJeKnU2H%2BhXpCw8FodoBfOsqmmzAIN2eAV5y86qlb6O0cKYCTs%2BL0spmv%2BdS3Oqth%2BJYAbiF8lwVsi%2F19OzS2Bd%2BeTCtvvV1N7DQ%2BkbZtGi89R%2FqLUYzLOzPyo2pKxoTMz1%2Fs9K%2BUtgsA3FnEj9VX00SEhli34Bz4%2BKc3%2BBaQ6l2bTJNUEil3vA9qJeqvwtz%2B0LWdKX%2BX9Y%2F3imCif8WUyuwsQ1A%3D%3D",
+      "images": [
+        "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266230380.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=lItVPYec0JuEwtJbiOGbYHwGYOWcDKNGAa8xjO2sBrhiGQmgLbLrnX3ZO9guuezlaFR20Mn090R8C9dwndSt9PF2z6%2BLlmWYgedwiVYYE6zKUby68C1QwK3URGOJeKnU2H%2BhXpCw8FodoBfOsqmmzAIN2eAV5y86qlb6O0cKYCTs%2BL0spmv%2BdS3Oqth%2BJYAbiF8lwVsi%2F19OzS2Bd%2BeTCtvvV1N7DQ%2BkbZtGi89R%2FqLUYzLOzPyo2pKxoTMz1%2Fs9K%2BUtgsA3FnEj9VX00SEhli34Bz4%2BKc3%2BBaQ6l2bTJNUEil3vA9qJeqvwtz%2B0LWdKX%2BX9Y%2F3imCif8WUyuwsQ1A%3D%3D"
+      ]
+    },
+    {
+      "id": "49",
+      "title": "紫米飯",
+      "engTitle": "Purple Rice",
+      "category": "主食類",
+      "healthLevel": 4,
+      "starchPortion": 3.5,
+      "proteinPortion": 1.5,
+      "vegetablePortion": 0.5,
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266270698.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mMrpR1fo3b4g9RSsV1zwFRRfBQP%2FSxMec2mUs77qjAfFxfRF2TGA2htGtMWXX3aEwxS5G16%2Fha42E4rnyUszJrHBgg4eIOt6zaUkgpONp9%2BrZLlPiUIlSQIMAY%2FLJQkoYTPzv%2FEPfevsEzxMz9iqNhTDPRxK0AuMDTApKku9HqwT8JO54kNByrrY%2FbKXXtxnCBCK27rbjobKyesFzrmoeNmleg%2BmcteB6aDiunYan773d0K11F7wsW%2Fu9eP%2BtDOXEohgLJKDstHTPFlexXcoy80DJg76hC3ZB5uIq1JWaRtaKMrSP1HdcVsodvCUS4nCib9etTXcGfoOvVC%2F4%2FA5iQ%3D%3D",
+      "images": [
+        "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266270698.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mMrpR1fo3b4g9RSsV1zwFRRfBQP%2FSxMec2mUs77qjAfFxfRF2TGA2htGtMWXX3aEwxS5G16%2Fha42E4rnyUszJrHBgg4eIOt6zaUkgpONp9%2BrZLlPiUIlSQIMAY%2FLJQkoYTPzv%2FEPfevsEzxMz9iqNhTDPRxK0AuMDTApKku9HqwT8JO54kNByrrY%2FbKXXtxnCBCK27rbjobKyesFzrmoeNmleg%2BmcteB6aDiunYan773d0K11F7wsW%2Fu9eP%2BtDOXEohgLJKDstHTPFlexXcoy80DJg76hC3ZB5uIq1JWaRtaKMrSP1HdcVsodvCUS4nCib9etTXcGfoOvVC%2F4%2FA5iQ%3D%3D"
+      ]
+    },
+    {
+      "id": "50",
+      "title": "炒飯",
+      "engTitle": "Fried Rice",
+      "category": "主食類",
+      "healthLevel": 2.5,
+      "starchPortion": 4,
+      "proteinPortion": 1,
+      "vegetablePortion": 0,
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266451930.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=HSEv3A1nxWBcbfYkAHpZhdvF0vSFbzUusMSTASoAaYuzLeisV%2BuQIu04gl0JlNXuUqRF%2B0GW0qpsvzPuhmTO4ImmjWo23oAMGcQ8hoBxpTBg3S46UEPAB4PRLK3gTpBLn3vLXr23FgZP1iNz692Jm6KrjB5RAyhmFx4DqL3977jYddP4REbEEgPSa2Cis8SJJZ5vcnSSwSo389xJ1DflfVSLBryZvG99LjN4Jho1YyGKagsEvHnjq%2BGIfPL5IdblRmePHo730l4k6mwcQmccG61DCjWhEM2btn7Ew1wGMafmFhcZj2XS5j87saPxxoRLoVuQfo%2FnwVQmCMRm4PR2AQ%3D%3D",
+      "images": [
+        "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266451930.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=HSEv3A1nxWBcbfYkAHpZhdvF0vSFbzUusMSTASoAaYuzLeisV%2BuQIu04gl0JlNXuUqRF%2B0GW0qpsvzPuhmTO4ImmjWo23oAMGcQ8hoBxpTBg3S46UEPAB4PRLK3gTpBLn3vLXr23FgZP1iNz692Jm6KrjB5RAyhmFx4DqL3977jYddP4REbEEgPSa2Cis8SJJZ5vcnSSwSo389xJ1DflfVSLBryZvG99LjN4Jho1YyGKagsEvHnjq%2BGIfPL5IdblRmePHo730l4k6mwcQmccG61DCjWhEM2btn7Ew1wGMafmFhcZj2XS5j87saPxxoRLoVuQfo%2FnwVQmCMRm4PR2AQ%3D%3D"
+      ]
+    },
+    {
+      "id": "51",
+      "title": "炒麵",
+      "engTitle": "Fried Noodles",
+      "category": "主食類",
+      "healthLevel": 2,
+      "starchPortion": 4,
+      "proteinPortion": 1,
+      "vegetablePortion": 0,
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266508398.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=VNCxwLEEnY4XdEw9WWRqFaIZE6WgXt9XAKX7beoRLPx2Covzg6QmArJIHLDYFFjvCJzDipR0E9eJZ6KlkHZPo1dINXe0dWHb1kDRyiU1NHMg5FvdSvn0FI1U3JYFsNv%2ByaamTO9emVS6NXfNZDQMRGbX4x%2BGBFIN8dmzTwGhz2M%2FMqsRIqJohgRsfyXWmn0kjGVftvDr%2BKIn75H5Fx3FxdUZXo1LgMA%2B46h7pd9%2Bd9nzNu%2Bpt9C9T%2FtemS6xrw4chTDBpsuFoaOlFpDDRk%2Bwkt5nZ3IrIMevCEyW9kRjdWNm38Nrd1FgMe2hM0SnzcCO1q2CUPBNGFg7G5nUOpeUNQ%3D%3D",
+      "images": [
+        "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266508398.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=VNCxwLEEnY4XdEw9WWRqFaIZE6WgXt9XAKX7beoRLPx2Covzg6QmArJIHLDYFFjvCJzDipR0E9eJZ6KlkHZPo1dINXe0dWHb1kDRyiU1NHMg5FvdSvn0FI1U3JYFsNv%2ByaamTO9emVS6NXfNZDQMRGbX4x%2BGBFIN8dmzTwGhz2M%2FMqsRIqJohgRsfyXWmn0kjGVftvDr%2BKIn75H5Fx3FxdUZXo1LgMA%2B46h7pd9%2Bd9nzNu%2Bpt9C9T%2FtemS6xrw4chTDBpsuFoaOlFpDDRk%2Bwkt5nZ3IrIMevCEyW9kRjdWNm38Nrd1FgMe2hM0SnzcCO1q2CUPBNGFg7G5nUOpeUNQ%3D%3D"
+      ]
     }
   ],
   "selections": [
@@ -695,10 +765,18 @@
     {
       "id": "UEBNxw1",
       "userId": "UFJNmk3",
-      "weekly": [5],
-      "monthly": [5],
-      "yearly": ["03/06"],
-      "specific": ["2024/01/15"]
+      "weekly": [
+        5
+      ],
+      "monthly": [
+        5
+      ],
+      "yearly": [
+        "03/06"
+      ],
+      "specific": [
+        "2024/01/15"
+      ]
     }
   ]
 }
