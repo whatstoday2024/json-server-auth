@@ -97,7 +97,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png"
     },
     {
       "id": "8",
@@ -133,7 +133,7 @@
       "proteinPortion": 0.25,
       "vegetablePortion": 0.25,
       "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
-      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png",
+      "bentoImgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707714590/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-02-12_130924_mbdgp0.png"
     },
     {
       "id": "11",
@@ -626,51 +626,50 @@
       "vegetablePortion": 0,
       "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266508398.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=VNCxwLEEnY4XdEw9WWRqFaIZE6WgXt9XAKX7beoRLPx2Covzg6QmArJIHLDYFFjvCJzDipR0E9eJZ6KlkHZPo1dINXe0dWHb1kDRyiU1NHMg5FvdSvn0FI1U3JYFsNv%2ByaamTO9emVS6NXfNZDQMRGbX4x%2BGBFIN8dmzTwGhz2M%2FMqsRIqJohgRsfyXWmn0kjGVftvDr%2BKIn75H5Fx3FxdUZXo1LgMA%2B46h7pd9%2Bd9nzNu%2Bpt9C9T%2FtemS6xrw4chTDBpsuFoaOlFpDDRk%2Bwkt5nZ3IrIMevCEyW9kRjdWNm38Nrd1FgMe2hM0SnzcCO1q2CUPBNGFg7G5nUOpeUNQ%3D%3D",
       "bentoImgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266508398.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=VNCxwLEEnY4XdEw9WWRqFaIZE6WgXt9XAKX7beoRLPx2Covzg6QmArJIHLDYFFjvCJzDipR0E9eJZ6KlkHZPo1dINXe0dWHb1kDRyiU1NHMg5FvdSvn0FI1U3JYFsNv%2ByaamTO9emVS6NXfNZDQMRGbX4x%2BGBFIN8dmzTwGhz2M%2FMqsRIqJohgRsfyXWmn0kjGVftvDr%2BKIn75H5Fx3FxdUZXo1LgMA%2B46h7pd9%2Bd9nzNu%2Bpt9C9T%2FtemS6xrw4chTDBpsuFoaOlFpDDRk%2Bwkt5nZ3IrIMevCEyW9kRjdWNm38Nrd1FgMe2hM0SnzcCO1q2CUPBNGFg7G5nUOpeUNQ%3D%3D"
-    ]
-  }
-],
-"selections": [
-  {
-    "id": "自動生成 | 時間戳記",
-    "userId": "記錄是哪個使用者選的",
-    "dishId": "記錄是哪一道菜色",
-    "preferenceLevel": "number (1~5，1為間隔)"
-  }
-],
-"records": [
-  {
-    "id": "ooooo(這筆紀錄的id)",
-    "userId": "ZZZ(對應使用者id, 記錄是哪個使用者產生的便當)",
-    "stapleCourse": "aaaaaaaaaaaaa(主食的id)",
-    "mainCourse": "bbbbbbbbbbb(主菜的id)",
-    "sideDishes": [
-      "c11111111(第一格配菜的id)",
-      "c22222222(第二格配菜的id)",
-      "c33333333(第三格配菜的id)"
-    ],
-    "date": "XXX(記錄是哪一天)，可考慮用時間戳記",
-    "mealType": "lunch | dinner",
-    "starchTotalPortion": "澱粉份量總和",
-    "proteinTotalPortion": "蛋白質份量總和",
-    "vegetableTotalPortion": "蔬菜份量總和"
-  }
-],
-"freeDays": [
-  {
-    "id": "UEBNxw1",
-    "userId": "UFJNmk3",
-    "weekly": [
-      5
-    ],
-    "monthly": [
-      5
-    ],
-    "yearly": [
-      "03/06"
-    ],
-    "specific": [
-      "2024/01/15"
-    ]
-  }
-]
+    }
+  ],
+  "selections": [
+    {
+      "id": "自動生成 | 時間戳記",
+      "userId": "記錄是哪個使用者選的",
+      "dishId": "記錄是哪一道菜色",
+      "preferenceLevel": "number (1~5，1為間隔)"
+    }
+  ],
+  "records": [
+    {
+      "id": "ooooo(這筆紀錄的id)",
+      "userId": "ZZZ(對應使用者id, 記錄是哪個使用者產生的便當)",
+      "stapleCourse": "aaaaaaaaaaaaa(主食的id)",
+      "mainCourse": "bbbbbbbbbbb(主菜的id)",
+      "sideDishes": [
+        "c11111111(第一格配菜的id)",
+        "c22222222(第二格配菜的id)",
+        "c33333333(第三格配菜的id)"
+      ],
+      "date": "XXX(記錄是哪一天)，可考慮用時間戳記",
+      "mealType": "lunch | dinner",
+      "starchTotalPortion": "澱粉份量總和",
+      "proteinTotalPortion": "蛋白質份量總和",
+      "vegetableTotalPortion": "蔬菜份量總和"
+    }
+  ],
+  "freeDays": [
+    {
+      "id": "UEBNxw1",
+      "userId": "UFJNmk3",
+      "weekly": [
+        5
+      ],
+      "monthly": [
+        5
+      ],
+      "yearly": [
+        "03/06"
+      ],
+      "specific": [
+        "2024/01/15"
+      ]
+    }
+  ]
 }
