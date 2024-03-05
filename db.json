@@ -738,22 +738,37 @@
       "preferenceLevel": "number (1~5，1為間隔)"
     }
   ],
-  "records": [
-    {
-      "id": "ooooo(這筆紀錄的id)",
-      "userId": "ZZZ(對應使用者id, 記錄是哪個使用者產生的便當)",
-      "stapleCourse": "aaaaaaaaaaaaa(主食的id)",
-      "mainCourse": "bbbbbbbbbbb(主菜的id)",
+  "records": [{
+      "id": "1",
+      "userId": "UFJNmk3",
+      "stapleCourse": "47",
+      "mainCourse": "4",
       "sideDishes": [
-        "c11111111(第一格配菜的id)",
-        "c22222222(第二格配菜的id)",
-        "c33333333(第三格配菜的id)"
+        "38",
+        "18",
+        "31"
       ],
-      "date": "XXX(記錄是哪一天)，可考慮用時間戳記",
-      "mealType": "lunch | dinner",
-      "starchTotalPortion": "澱粉份量總和",
-      "proteinTotalPortion": "蛋白質份量總和",
-      "vegetableTotalPortion": "蔬菜份量總和"
+      "date": "1709646741171",
+      "mealType": "dinner",
+      "starchTotalPortion": "1",
+      "proteinTotalPortion": "1.75",
+      "vegetableTotalPortion": "1.75"
+    },
+    {
+      "id": "1",
+      "userId": "UFJNmk3",
+      "stapleCourse": "49",
+      "mainCourse": "28",
+      "sideDishes": [
+        "42",
+        "40",
+        "12"
+      ],
+      "date": "1709647762360",
+      "mealType": "lunch",
+      "starchTotalPortion": "0.88",
+      "proteinTotalPortion": "4.75",
+      "vegetableTotalPortion": "1.75"
     }
   ],
   "freeDays": [
