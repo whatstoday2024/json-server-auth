@@ -730,15 +730,9 @@
       ]
     }
   ],
-  "selecteds": [
+  "selecteds": [],
+  "records": [
     {
-      "id": "自動生成 | 時間戳記",
-      "userId": "記錄是哪個使用者選的",
-      "dishId": "記錄是哪一道菜色",
-      "preferenceLevel": "number (1~5，1為間隔)"
-    }
-  ],
-  "records": [{
       "id": "1",
       "userId": "UFJNmk3",
       "stapleCourse": "47",
@@ -755,7 +749,7 @@
       "vegetableTotalPortion": "1.75"
     },
     {
-      "id": "1",
+      "id": "2",
       "userId": "UFJNmk3",
       "stapleCourse": "49",
       "mainCourse": "28",
@@ -769,6 +763,188 @@
       "starchTotalPortion": "0.88",
       "proteinTotalPortion": "4.75",
       "vegetableTotalPortion": "1.75"
+    },
+    {
+      "starchTotalPortion": 4,
+      "proteinTotalPortion": 5.75,
+      "vegetableTotalPortion": 1.5,
+      "stapleCourse": {
+        "id": "48",
+        "title": "糙米飯",
+        "engTitle": "Brown Rice",
+        "category": "主食類",
+        "healthLevel": 3.5,
+        "starchPortion": 4,
+        "proteinPortion": 1,
+        "vegetablePortion": 0.5,
+        "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266230380.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=lItVPYec0JuEwtJbiOGbYHwGYOWcDKNGAa8xjO2sBrhiGQmgLbLrnX3ZO9guuezlaFR20Mn090R8C9dwndSt9PF2z6%2BLlmWYgedwiVYYE6zKUby68C1QwK3URGOJeKnU2H%2BhXpCw8FodoBfOsqmmzAIN2eAV5y86qlb6O0cKYCTs%2BL0spmv%2BdS3Oqth%2BJYAbiF8lwVsi%2F19OzS2Bd%2BeTCtvvV1N7DQ%2BkbZtGi89R%2FqLUYzLOzPyo2pKxoTMz1%2Fs9K%2BUtgsA3FnEj9VX00SEhli34Bz4%2BKc3%2BBaQ6l2bTJNUEil3vA9qJeqvwtz%2B0LWdKX%2BX9Y%2F3imCif8WUyuwsQ1A%3D%3D",
+        "images": [
+          "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266230380.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=lItVPYec0JuEwtJbiOGbYHwGYOWcDKNGAa8xjO2sBrhiGQmgLbLrnX3ZO9guuezlaFR20Mn090R8C9dwndSt9PF2z6%2BLlmWYgedwiVYYE6zKUby68C1QwK3URGOJeKnU2H%2BhXpCw8FodoBfOsqmmzAIN2eAV5y86qlb6O0cKYCTs%2BL0spmv%2BdS3Oqth%2BJYAbiF8lwVsi%2F19OzS2Bd%2BeTCtvvV1N7DQ%2BkbZtGi89R%2FqLUYzLOzPyo2pKxoTMz1%2Fs9K%2BUtgsA3FnEj9VX00SEhli34Bz4%2BKc3%2BBaQ6l2bTJNUEil3vA9qJeqvwtz%2B0LWdKX%2BX9Y%2F3imCif8WUyuwsQ1A%3D%3D"
+        ],
+        "isChecked": false,
+        "preferenceLevel": 1
+      },
+      "mainCourse": {
+        "id": "15",
+        "title": "銷魂滷排骨",
+        "engTitle": "Flavorful Braised Spare Ribs",
+        "category": "主菜類",
+        "healthLevel": 3.5,
+        "starchPortion": 0,
+        "proteinPortion": 4,
+        "vegetablePortion": 0,
+        "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713389/-_Flavorful_Braised_Spare_Ribs_pab5hk.png",
+        "images": [
+          "https://res.cloudinary.com/dfvtounam/image/upload/v1707713389/-_Flavorful_Braised_Spare_Ribs_pab5hk.png"
+        ],
+        "isChecked": false,
+        "preferenceLevel": 1
+      },
+      "sideDishes": [
+        {
+          "id": "33",
+          "title": "紅燒茄子",
+          "engTitle": "Braised Eggplant in Soy Sauce",
+          "category": "配菜類",
+          "healthLevel": 3.5,
+          "starchPortion": 0,
+          "proteinPortion": 0.25,
+          "vegetablePortion": 0.5,
+          "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713521/%E7%B4%85%E7%87%92%E8%8C%84%E5%AD%90_mecmj6.png",
+          "images": [
+            "https://res.cloudinary.com/dfvtounam/image/upload/v1707713521/%E7%B4%85%E7%87%92%E8%8C%84%E5%AD%90_mecmj6.png"
+          ],
+          "isChecked": false,
+          "preferenceLevel": 1
+        },
+        {
+          "id": "7",
+          "title": "炒絲瓜",
+          "engTitle": "Stir-Fried Loofah",
+          "category": "配菜類",
+          "healthLevel": 4.5,
+          "starchPortion": 0,
+          "proteinPortion": 0.25,
+          "vegetablePortion": 0.25,
+          "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709287842213.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=XJAGJGcwn%2B6SJRWsej25cmOpdTeXAo9jELSKM05CKG10lbW6M7Eb49%2FQnZJNSyeLLbwtUa0JoTIUGeLwjNzpB0G%2F%2BdUlxxIbx6J3GznjvanYZ%2BMVsi69yxKLlLhgMPEMPDmp3MxN3ECUYeM4e2a43OojobJwV5SBu0bVk7dq%2BHcDoPi60FWwIRNx1zm%2BuHccpOXJDc9OFh%2BeTkjUtxGrGKjx3ufbFhNVmaXLybfOX6jDxDnODWvihXPTEBzeAfUV9wTa1JUEoEkFqZYD95UhXRi45zL%2BsXschDh4vxUvD5PL%2B%2BnEuk2MCfsexeBqi6tscDBq4DNRI6ahoNZeEjoT7g%3D%3D",
+          "images": [
+            "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709287842213.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=XJAGJGcwn%2B6SJRWsej25cmOpdTeXAo9jELSKM05CKG10lbW6M7Eb49%2FQnZJNSyeLLbwtUa0JoTIUGeLwjNzpB0G%2F%2BdUlxxIbx6J3GznjvanYZ%2BMVsi69yxKLlLhgMPEMPDmp3MxN3ECUYeM4e2a43OojobJwV5SBu0bVk7dq%2BHcDoPi60FWwIRNx1zm%2BuHccpOXJDc9OFh%2BeTkjUtxGrGKjx3ufbFhNVmaXLybfOX6jDxDnODWvihXPTEBzeAfUV9wTa1JUEoEkFqZYD95UhXRi45zL%2BsXschDh4vxUvD5PL%2B%2BnEuk2MCfsexeBqi6tscDBq4DNRI6ahoNZeEjoT7g%3D%3D"
+          ],
+          "isChecked": false,
+          "preferenceLevel": 1
+        },
+        {
+          "id": "6",
+          "title": "炒四季豆",
+          "engTitle": "Stir-Fried French Beans",
+          "category": "配菜類",
+          "healthLevel": 4.5,
+          "starchPortion": 0,
+          "proteinPortion": 0.25,
+          "vegetablePortion": 0.25,
+          "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284382432.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=laVPc0ZZoh%2FJSwlltw59tvmmT2u0yS%2FIbq%2FOibCbk629cp%2Fsg8HyJVZYYo7sE4mAwfD5YdLZTuKxDi4KFGMhFxUqIDMiY25qMw6AnjvyhCN7DGxwD%2FyuJlvb3tpptUT6WgtFT%2BFMd3tyWnqmuBwh%2F2G8RORBq0hshlV3%2BEdZsxq8pT8wR9BdHQ0Dj%2FwGb5fqnD%2Fcx6%2FmAaQ8kr%2FbrWPEYO5b368N0puekSuY08nTKwOWrmeRC%2FA60x6IFOV1CqvYD0mAixcXYzgf33u9VIoHIAxL41TFWIEABzhGi9sAF9CL1Wwei8JmV6cSE8dCI%2FFKrV90l1tSZFT6GlDytSdXqA%3D%3D",
+          "images": [
+            "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709284382432.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=laVPc0ZZoh%2FJSwlltw59tvmmT2u0yS%2FIbq%2FOibCbk629cp%2Fsg8HyJVZYYo7sE4mAwfD5YdLZTuKxDi4KFGMhFxUqIDMiY25qMw6AnjvyhCN7DGxwD%2FyuJlvb3tpptUT6WgtFT%2BFMd3tyWnqmuBwh%2F2G8RORBq0hshlV3%2BEdZsxq8pT8wR9BdHQ0Dj%2FwGb5fqnD%2Fcx6%2FmAaQ8kr%2FbrWPEYO5b368N0puekSuY08nTKwOWrmeRC%2FA60x6IFOV1CqvYD0mAixcXYzgf33u9VIoHIAxL41TFWIEABzhGi9sAF9CL1Wwei8JmV6cSE8dCI%2FFKrV90l1tSZFT6GlDytSdXqA%3D%3D"
+          ],
+          "isChecked": false,
+          "preferenceLevel": 1
+        }
+      ],
+      "date": "2024-03-09",
+      "mealType": "午餐",
+      "userId": "UFJNmk3",
+      "id": "todqLOw"
+    },
+    {
+      "starchTotalPortion": 4,
+      "proteinTotalPortion": 4.25,
+      "vegetableTotalPortion": 2,
+      "stapleCourse": {
+        "id": "49",
+        "title": "紫米飯",
+        "engTitle": "Purple Rice",
+        "category": "主食類",
+        "healthLevel": 4,
+        "starchPortion": 3.5,
+        "proteinPortion": 1.5,
+        "vegetablePortion": 0.5,
+        "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266270698.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mMrpR1fo3b4g9RSsV1zwFRRfBQP%2FSxMec2mUs77qjAfFxfRF2TGA2htGtMWXX3aEwxS5G16%2Fha42E4rnyUszJrHBgg4eIOt6zaUkgpONp9%2BrZLlPiUIlSQIMAY%2FLJQkoYTPzv%2FEPfevsEzxMz9iqNhTDPRxK0AuMDTApKku9HqwT8JO54kNByrrY%2FbKXXtxnCBCK27rbjobKyesFzrmoeNmleg%2BmcteB6aDiunYan773d0K11F7wsW%2Fu9eP%2BtDOXEohgLJKDstHTPFlexXcoy80DJg76hC3ZB5uIq1JWaRtaKMrSP1HdcVsodvCUS4nCib9etTXcGfoOvVC%2F4%2FA5iQ%3D%3D",
+        "images": [
+          "https://storage.googleapis.com/vue-course-api.appspot.com/sky030b/1709266270698.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mMrpR1fo3b4g9RSsV1zwFRRfBQP%2FSxMec2mUs77qjAfFxfRF2TGA2htGtMWXX3aEwxS5G16%2Fha42E4rnyUszJrHBgg4eIOt6zaUkgpONp9%2BrZLlPiUIlSQIMAY%2FLJQkoYTPzv%2FEPfevsEzxMz9iqNhTDPRxK0AuMDTApKku9HqwT8JO54kNByrrY%2FbKXXtxnCBCK27rbjobKyesFzrmoeNmleg%2BmcteB6aDiunYan773d0K11F7wsW%2Fu9eP%2BtDOXEohgLJKDstHTPFlexXcoy80DJg76hC3ZB5uIq1JWaRtaKMrSP1HdcVsodvCUS4nCib9etTXcGfoOvVC%2F4%2FA5iQ%3D%3D"
+        ],
+        "isChecked": false,
+        "preferenceLevel": 1
+      },
+      "mainCourse": {
+        "id": "37",
+        "title": "塔香三杯雞",
+        "engTitle": "Three-Cup Chicken with Basil",
+        "category": "主菜類",
+        "healthLevel": 3,
+        "starchPortion": 0.5,
+        "proteinPortion": 2.5,
+        "vegetablePortion": 0,
+        "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713443/%E4%B8%89%E6%9D%AF%E9%9B%9E_bvn4av.png",
+        "images": [
+          "https://res.cloudinary.com/dfvtounam/image/upload/v1707713443/%E4%B8%89%E6%9D%AF%E9%9B%9E_bvn4av.png"
+        ],
+        "isChecked": false,
+        "preferenceLevel": 1
+      },
+      "sideDishes": [
+        {
+          "id": "29",
+          "title": "炒空心菜",
+          "engTitle": "Stir-Fried Water Spinach",
+          "category": "配菜類",
+          "healthLevel": 4,
+          "starchPortion": 0,
+          "proteinPortion": 0,
+          "vegetablePortion": 0.5,
+          "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713492/%E7%82%92%E7%A9%BA%E5%BF%83%E8%8F%9C_of6bdy.png",
+          "images": [
+            "https://res.cloudinary.com/dfvtounam/image/upload/v1707713492/%E7%82%92%E7%A9%BA%E5%BF%83%E8%8F%9C_of6bdy.png"
+          ],
+          "isChecked": false,
+          "preferenceLevel": 1
+        },
+        {
+          "id": "19",
+          "title": "炒秋葵",
+          "engTitle": "Stir-Fried Okra",
+          "category": "配菜類",
+          "healthLevel": 4,
+          "starchPortion": 0,
+          "proteinPortion": 0,
+          "vegetablePortion": 0.5,
+          "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713522/%E7%A7%8B%E8%91%B5_aip9qo.jpg",
+          "images": [
+            "https://res.cloudinary.com/dfvtounam/image/upload/v1707713522/%E7%A7%8B%E8%91%B5_aip9qo.jpg"
+          ],
+          "isChecked": false,
+          "preferenceLevel": 1
+        },
+        {
+          "id": "41",
+          "title": "炒蘑菇",
+          "engTitle": "Stir-Fried Mushrooms",
+          "category": "配菜類",
+          "healthLevel": 4,
+          "starchPortion": 0,
+          "proteinPortion": 0.25,
+          "vegetablePortion": 0.25,
+          "imgUrl": "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E7%A3%A8%E8%8F%87_nmxglf.jpg",
+          "images": [
+            "https://res.cloudinary.com/dfvtounam/image/upload/v1707713493/%E7%82%92%E7%A3%A8%E8%8F%87_nmxglf.jpg"
+          ],
+          "isChecked": false,
+          "preferenceLevel": 1
+        }
+      ],
+      "date": "2024-03-04",
+      "mealType": "晚餐",
+      "userId": "UFJNmk3",
+      "id": "qvnJ24z"
     }
   ],
   "freeDays": [
